@@ -1,0 +1,3502 @@
+[
+    {
+        "productBarCode": 9557514014395,
+        "name": "Hair Serum",
+        "expDate": "24.07.2020",
+        "category": "Beauty",
+        "quantity_rem": 24
+    },
+    {
+        "productBarCode": 9557514014395,
+        "name": "Hair Serum",
+        "expDate": "24.07.2020",
+        "category": "Beauty",
+        "quantity_rem": 24
+    },
+    {
+        "productBarCode": 4478015843799,
+        "name": "AB PHYLLINE",
+        "expDate": "13.9.2023",
+        "category": "Medicine",
+        "quantity_rem": 651
+    },
+    {
+        "productBarCode": 2152959516131,
+        "name": "AB PHYLLINE SYRUP",
+        "expDate": "20.11.2038",
+        "category": "Medicine",
+        "quantity_rem": 971
+    },
+    {
+        "productBarCode": 9154723771376,
+        "name": "ACAMPROL",
+        "expDate": "15.6.2039",
+        "category": "Medicine",
+        "quantity_rem": 915
+    },
+    {
+        "productBarCode": 1972865874561,
+        "name": "ACOSTIN FORTE",
+        "expDate": "30.10.2037",
+        "category": "Medicine",
+        "quantity_rem": 920
+    },
+    {
+        "productBarCode": 4645798052103,
+        "name": "ACROTAC CAPS 10 MG   ",
+        "expDate": "28.11.2025",
+        "category": "Medicine",
+        "quantity_rem": 470
+    },
+    {
+        "productBarCode": 8605369537515,
+        "name": "ACTIZO DT ",
+        "expDate": "18.10.2017",
+        "category": "Medicine",
+        "quantity_rem": 949
+    },
+    {
+        "productBarCode": 7159682770553,
+        "name": "ACTIZO DT ",
+        "expDate": "14.7.2033",
+        "category": "Medicine",
+        "quantity_rem": 832
+    },
+    {
+        "productBarCode": 6387083682167,
+        "name": "ADCAPONE",
+        "expDate": "20.6.2040",
+        "category": "Medicine",
+        "quantity_rem": 405
+    },
+    {
+        "productBarCode": 7299871235735,
+        "name": "ADENOJECT 30MG/10ML 1 AMP",
+        "expDate": "20.5.2032",
+        "category": "Medicine",
+        "quantity_rem": 954
+    },
+    {
+        "productBarCode": 7950648752073,
+        "name": "ADESAM 200",
+        "expDate": "29.11.2029",
+        "category": "Medicine",
+        "quantity_rem": 489
+    },
+    {
+        "productBarCode": 6927383236609,
+        "name": "ADFOVIR",
+        "expDate": "17.12.2033",
+        "category": "Medicine",
+        "quantity_rem": 918
+    },
+    {
+        "productBarCode": 6480366236581,
+        "name": "ADMENTA XR 14",
+        "expDate": "3.4.2030",
+        "category": "Medicine",
+        "quantity_rem": 811
+    },
+    {
+        "productBarCode": 2235086103901,
+        "name": "ADMENTA-10",
+        "expDate": "20.10.2017",
+        "category": "Medicine",
+        "quantity_rem": 655
+    },
+    {
+        "productBarCode": 4229048548475,
+        "name": "ADVADOX INJECTION",
+        "expDate": "7.8.2045",
+        "category": "Medicine",
+        "quantity_rem": 704
+    },
+    {
+        "productBarCode": 1624920656807,
+        "name": "ALCAINE-MPS 200ML 1 BTL",
+        "expDate": "9.11.2036",
+        "category": "Medicine",
+        "quantity_rem": 448
+    },
+    {
+        "productBarCode": 9281255411390,
+        "name": "ALDORACE TABLETS",
+        "expDate": "28.5.2030",
+        "category": "Medicine",
+        "quantity_rem": 826
+    },
+    {
+        "productBarCode": 2368573967071,
+        "name": "ALTRADAY CAPSULE  ",
+        "expDate": "1.2.2035",
+        "category": "Medicine",
+        "quantity_rem": 140
+    },
+    {
+        "productBarCode": 1039708445139,
+        "name": "ALZOLAM 0.25MG",
+        "expDate": "23.5.2040",
+        "category": "Medicine",
+        "quantity_rem": 755
+    },
+    {
+        "productBarCode": 5584874609356,
+        "name": "ALZOLAM 1.0MG",
+        "expDate": "8.12.2043",
+        "category": "Medicine",
+        "quantity_rem": 247
+    },
+    {
+        "productBarCode": 1638763880539,
+        "name": "AMEXIDIL SOLUTION ",
+        "expDate": "22.11.2033",
+        "category": "Medicine",
+        "quantity_rem": 251
+    },
+    {
+        "productBarCode": 3807066791520,
+        "name": "AMIVAL TABLETS. 200MG",
+        "expDate": "4.9.2036",
+        "category": "Medicine",
+        "quantity_rem": 995
+    },
+    {
+        "productBarCode": 1821690897240,
+        "name": "AMIXIDE",
+        "expDate": "30.9.2040",
+        "category": "Medicine",
+        "quantity_rem": 718
+    },
+    {
+        "productBarCode": 3308931872639,
+        "name": "AMIXIDE-H",
+        "expDate": "17.1.2019",
+        "category": "Medicine",
+        "quantity_rem": 245
+    },
+    {
+        "productBarCode": 5964761224467,
+        "name": "AMLOSUN 5",
+        "expDate": "22.6.2027",
+        "category": "Medicine",
+        "quantity_rem": 600
+    },
+    {
+        "productBarCode": 1612037361942,
+        "name": "AMYLAC LOTION ",
+        "expDate": "26.5.2020",
+        "category": "Medicine",
+        "quantity_rem": 342
+    },
+    {
+        "productBarCode": 4663377427624,
+        "name": "ANDROBLOK",
+        "expDate": "23.9.2026",
+        "category": "Medicine",
+        "quantity_rem": 388
+    },
+    {
+        "productBarCode": 4166329711740,
+        "name": "ANGISTAT 6.5 MG",
+        "expDate": "18.4.2043",
+        "category": "Medicine",
+        "quantity_rem": 479
+    },
+    {
+        "productBarCode": 1640247125167,
+        "name": "ANGIZEM 60",
+        "expDate": "25.8.2024",
+        "category": "Medicine",
+        "quantity_rem": 413
+    },
+    {
+        "productBarCode": 3041220650486,
+        "name": "ANGIZEM DP 90",
+        "expDate": "2.4.2038",
+        "category": "Medicine",
+        "quantity_rem": 111
+    },
+    {
+        "productBarCode": 8119767850835,
+        "name": "ANGIZEM-CD 180",
+        "expDate": "18.7.2019",
+        "category": "Medicine",
+        "quantity_rem": 352
+    },
+    {
+        "productBarCode": 4208191844853,
+        "name": "ANOFER",
+        "expDate": "4.3.2036",
+        "category": "Medicine",
+        "quantity_rem": 315
+    },
+    {
+        "productBarCode": 5180962167792,
+        "name": "ANOFER S 100 INJECTION",
+        "expDate": "3.3.2034",
+        "category": "Medicine",
+        "quantity_rem": 313
+    },
+    {
+        "productBarCode": 6942980423818,
+        "name": "ANOFER SP",
+        "expDate": "7.6.2037",
+        "category": "Medicine",
+        "quantity_rem": 416
+    },
+    {
+        "productBarCode": 3783274560461,
+        "name": "ANXOZAP 15",
+        "expDate": "8.11.2038",
+        "category": "Medicine",
+        "quantity_rem": 605
+    },
+    {
+        "productBarCode": 2373305336040,
+        "name": "APRELIEF CAPSULES -  KIT",
+        "expDate": "18.10.2021",
+        "category": "Medicine",
+        "quantity_rem": 750
+    },
+    {
+        "productBarCode": 3218609336159,
+        "name": "AQUAZIDE 12.5",
+        "expDate": "21.12.2031",
+        "category": "Medicine",
+        "quantity_rem": 911
+    },
+    {
+        "productBarCode": 6730611579290,
+        "name": "ARAVON",
+        "expDate": "21.1.2037",
+        "category": "Medicine",
+        "quantity_rem": 516
+    },
+    {
+        "productBarCode": 1769287544077,
+        "name": "ARPIZOL 5",
+        "expDate": "2.9.2018",
+        "category": "Medicine",
+        "quantity_rem": 538
+    },
+    {
+        "productBarCode": 6593898674476,
+        "name": "ARPIZOL-15",
+        "expDate": "19.7.2041",
+        "category": "Medicine",
+        "quantity_rem": 784
+    },
+    {
+        "productBarCode": 4576430120758,
+        "name": "ARPIZOL-30",
+        "expDate": "18.7.2042",
+        "category": "Medicine",
+        "quantity_rem": 539
+    },
+    {
+        "productBarCode": 2114092432524,
+        "name": "ASENAPT 5",
+        "expDate": "7.2.2045",
+        "category": "Medicine",
+        "quantity_rem": 750
+    },
+    {
+        "productBarCode": 9137378961035,
+        "name": "ASGINASE 5000 IU",
+        "expDate": "12.8.2035",
+        "category": "Medicine",
+        "quantity_rem": 867
+    },
+    {
+        "productBarCode": 7953681076113,
+        "name": "ATRACURIUM BESILATE INJECTION",
+        "expDate": "1.3.2045",
+        "category": "Medicine",
+        "quantity_rem": 825
+    },
+    {
+        "productBarCode": 2546510741274,
+        "name": "ATTENTROL 18",
+        "expDate": "30.10.2029",
+        "category": "Medicine",
+        "quantity_rem": 903
+    },
+    {
+        "productBarCode": 7538837275639,
+        "name": "AVESSA 100 OCTACAPS",
+        "expDate": "3.1.2045",
+        "category": "Medicine",
+        "quantity_rem": 780
+    },
+    {
+        "productBarCode": 3772100223848,
+        "name": "AVESSA 250 OCTACAPS",
+        "expDate": "7.3.2030",
+        "category": "Medicine",
+        "quantity_rem": 476
+    },
+    {
+        "productBarCode": 3180253818897,
+        "name": "AVESSA 500 OCTACAPS",
+        "expDate": "29.9.2032",
+        "category": "Medicine",
+        "quantity_rem": 808
+    },
+    {
+        "productBarCode": 4427733016698,
+        "name": "AZTOR 80",
+        "expDate": "30.11.2022",
+        "category": "Medicine",
+        "quantity_rem": 322
+    },
+    {
+        "productBarCode": 2175136618099,
+        "name": "AZTOR ASP-75",
+        "expDate": "23.8.2033",
+        "category": "Medicine",
+        "quantity_rem": 212
+    },
+    {
+        "productBarCode": 7110787166068,
+        "name": "AZTOR EZ 20",
+        "expDate": "1.12.2018",
+        "category": "Medicine",
+        "quantity_rem": 494
+    },
+    {
+        "productBarCode": 5509934383084,
+        "name": "AZTOR-20",
+        "expDate": "25.6.2037",
+        "category": "Medicine",
+        "quantity_rem": 169
+    },
+    {
+        "productBarCode": 9016212489915,
+        "name": "AZTOR-5",
+        "expDate": "28.6.2030",
+        "category": "Medicine",
+        "quantity_rem": 330
+    },
+    {
+        "productBarCode": 3995635918523,
+        "name": "BAXMUNE TABLETS 500 MG.",
+        "expDate": "30.8.2030",
+        "category": "Medicine",
+        "quantity_rem": 439
+    },
+    {
+        "productBarCode": 1589735762643,
+        "name": "BENFOMET PLUS",
+        "expDate": "18.5.2039",
+        "category": "Medicine",
+        "quantity_rem": 286
+    },
+    {
+        "productBarCode": 8153020470910,
+        "name": "BETACAP 10",
+        "expDate": "23.11.2042",
+        "category": "Medicine",
+        "quantity_rem": 194
+    },
+    {
+        "productBarCode": 9549393940457,
+        "name": "BETACAP PLUS 10",
+        "expDate": "12.6.2032",
+        "category": "Medicine",
+        "quantity_rem": 708
+    },
+    {
+        "productBarCode": 4350540359831,
+        "name": "BETACAP PLUS LS",
+        "expDate": "13.11.2037",
+        "category": "Medicine",
+        "quantity_rem": 119
+    },
+    {
+        "productBarCode": 6948240076759,
+        "name": "BETACAP-TR 40",
+        "expDate": "19.6.2022",
+        "category": "Medicine",
+        "quantity_rem": 433
+    },
+    {
+        "productBarCode": 5853447487110,
+        "name": "BETATROP",
+        "expDate": "21.12.2021",
+        "category": "Medicine",
+        "quantity_rem": 673
+    },
+    {
+        "productBarCode": 5846497884909,
+        "name": "BETAVERT 24",
+        "expDate": "8.3.2029",
+        "category": "Medicine",
+        "quantity_rem": 798
+    },
+    {
+        "productBarCode": 3014730887496,
+        "name": "BETAVERT OD 48",
+        "expDate": "13.5.2034",
+        "category": "Medicine",
+        "quantity_rem": 639
+    },
+    {
+        "productBarCode": 7863007733815,
+        "name": "BIVAFLO",
+        "expDate": "7.6.2030",
+        "category": "Medicine",
+        "quantity_rem": 288
+    },
+    {
+        "productBarCode": 8137320241879,
+        "name": "BRIMOLOL",
+        "expDate": "12.1.2023",
+        "category": "Medicine",
+        "quantity_rem": 456
+    },
+    {
+        "productBarCode": 9052609765972,
+        "name": "BRIMOSUN-P",
+        "expDate": "7.12.2022",
+        "category": "Medicine",
+        "quantity_rem": 574
+    },
+    {
+        "productBarCode": 5724586870929,
+        "name": "BUDEZ CR",
+        "expDate": "22.11.2026",
+        "category": "Medicine",
+        "quantity_rem": 935
+    },
+    {
+        "productBarCode": 5159798416349,
+        "name": "BUPRON XL 150",
+        "expDate": "30.3.2035",
+        "category": "Medicine",
+        "quantity_rem": 771
+    },
+    {
+        "productBarCode": 7271760738323,
+        "name": "CABERLIN 0.25",
+        "expDate": "29.4.2023",
+        "category": "Medicine",
+        "quantity_rem": 294
+    },
+    {
+        "productBarCode": 6575330486501,
+        "name": "CABERLIN 0.5 2 TAB",
+        "expDate": "27.7.2020",
+        "category": "Medicine",
+        "quantity_rem": 911
+    },
+    {
+        "productBarCode": 1011014752931,
+        "name": "CABGOLIN 0.25",
+        "expDate": "15.3.2035",
+        "category": "Medicine",
+        "quantity_rem": 955
+    },
+    {
+        "productBarCode": 2557493632319,
+        "name": "CABGOLIN 0.5 (4 TABS)",
+        "expDate": "8.7.2023",
+        "category": "Medicine",
+        "quantity_rem": 721
+    },
+    {
+        "productBarCode": 5665596306511,
+        "name": "CAFIRATE",
+        "expDate": "22.3.2038",
+        "category": "Medicine",
+        "quantity_rem": 962
+    },
+    {
+        "productBarCode": 6170961985629,
+        "name": "CAFIRATE INJECTION",
+        "expDate": "10.7.2022",
+        "category": "Medicine",
+        "quantity_rem": 537
+    },
+    {
+        "productBarCode": 9280934772242,
+        "name": "CALMPOSE TABLETS",
+        "expDate": "31.2.2020",
+        "category": "Medicine",
+        "quantity_rem": 875
+    },
+    {
+        "productBarCode": 7049312640749,
+        "name": "CALURAN TABLETS 50 MG.30S",
+        "expDate": "26.6.2040",
+        "category": "Medicine",
+        "quantity_rem": 262
+    },
+    {
+        "productBarCode": 7485881175700,
+        "name": "CANSOFT CL",
+        "expDate": "15.7.2027",
+        "category": "Medicine",
+        "quantity_rem": 508
+    },
+    {
+        "productBarCode": 3775119910555,
+        "name": "CAPSAIN 70",
+        "expDate": "17.8.2021",
+        "category": "Medicine",
+        "quantity_rem": 415
+    },
+    {
+        "productBarCode": 6875076801249,
+        "name": "CARDIBETA AM TABLETS 25 MG",
+        "expDate": "1.3.2026",
+        "category": "Medicine",
+        "quantity_rem": 135
+    },
+    {
+        "productBarCode": 4752138417835,
+        "name": "CARDIBETA TABLETS 100 MG",
+        "expDate": "16.11.2017",
+        "category": "Medicine",
+        "quantity_rem": 857
+    },
+    {
+        "productBarCode": 3930262381366,
+        "name": "CARDIBETA XR TABLETS 25 MG ",
+        "expDate": "15.8.2044",
+        "category": "Medicine",
+        "quantity_rem": 489
+    },
+    {
+        "productBarCode": 6986117133286,
+        "name": "CARDIJECT LYOPHILISED INJ 250MG",
+        "expDate": "21.8.2038",
+        "category": "Medicine",
+        "quantity_rem": 832
+    },
+    {
+        "productBarCode": 5581684442403,
+        "name": "CARDIVAS 25MG",
+        "expDate": "10.6.2027",
+        "category": "Medicine",
+        "quantity_rem": 510
+    },
+    {
+        "productBarCode": 5126052814905,
+        "name": "CARDIVAS 6.25",
+        "expDate": "12.5.2022",
+        "category": "Medicine",
+        "quantity_rem": 821
+    },
+    {
+        "productBarCode": 3723181545919,
+        "name": "CARDIVAS CR 20",
+        "expDate": "8.5.2017",
+        "category": "Medicine",
+        "quantity_rem": 484
+    },
+    {
+        "productBarCode": 7201977877385,
+        "name": "CAREPROST",
+        "expDate": "14.8.2019",
+        "category": "Medicine",
+        "quantity_rem": 748
+    },
+    {
+        "productBarCode": 9357093201734,
+        "name": "CAREVON INJECTION",
+        "expDate": "1.3.2043",
+        "category": "Medicine",
+        "quantity_rem": 765
+    },
+    {
+        "productBarCode": 4630295983117,
+        "name": "CARTIDIN GM TABLETS",
+        "expDate": "23.9.2042",
+        "category": "Medicine",
+        "quantity_rem": 218
+    },
+    {
+        "productBarCode": 4197806530129,
+        "name": "CASPORAN INJECTION 50MG",
+        "expDate": "17.7.2045",
+        "category": "Medicine",
+        "quantity_rem": 991
+    },
+    {
+        "productBarCode": 7816830956192,
+        "name": "CAVERTA TABLETS 100MG",
+        "expDate": "19.1.2027",
+        "category": "Medicine",
+        "quantity_rem": 768
+    },
+    {
+        "productBarCode": 7296199831843,
+        "name": "CAVERTA TABLETS 50MG",
+        "expDate": "29.2.2033",
+        "category": "Medicine",
+        "quantity_rem": 461
+    },
+    {
+        "productBarCode": 9257915912962,
+        "name": "CEFDIEL CAP ",
+        "expDate": "24.6.2033",
+        "category": "Medicine",
+        "quantity_rem": 966
+    },
+    {
+        "productBarCode": 9384689744113,
+        "name": "CEPODEM AZ TABLETS   ",
+        "expDate": "10.12.2045",
+        "category": "Medicine",
+        "quantity_rem": 155
+    },
+    {
+        "productBarCode": 2493988404171,
+        "name": "CEPODEM DT 50MG  ",
+        "expDate": "20.4.2021",
+        "category": "Medicine",
+        "quantity_rem": 916
+    },
+    {
+        "productBarCode": 5813920968302,
+        "name": "CEPODEM SUSPENSION DS 100 MG/5ML",
+        "expDate": "18.1.2031",
+        "category": "Medicine",
+        "quantity_rem": 946
+    },
+    {
+        "productBarCode": 4961327110428,
+        "name": "CEPODEM TABLETS  200MG  ",
+        "expDate": "1.2.2034",
+        "category": "Medicine",
+        "quantity_rem": 850
+    },
+    {
+        "productBarCode": 6322734326950,
+        "name": "CEPODEM XP DRY SYRUP",
+        "expDate": "14.5.2039",
+        "category": "Medicine",
+        "quantity_rem": 301
+    },
+    {
+        "productBarCode": 1855026831750,
+        "name": "CEPODEM XP DT   ",
+        "expDate": "16.4.2040",
+        "category": "Medicine",
+        "quantity_rem": 768
+    },
+    {
+        "productBarCode": 2620407924879,
+        "name": "CEPODEM XP TABLETS 325MG  ",
+        "expDate": "18.7.2020",
+        "category": "Medicine",
+        "quantity_rem": 663
+    },
+    {
+        "productBarCode": 7945213485760,
+        "name": "CERESTAR CAP",
+        "expDate": "21.12.2038",
+        "category": "Medicine",
+        "quantity_rem": 372
+    },
+    {
+        "productBarCode": 8134648763392,
+        "name": "CERITON-EPO 2000 IU (RHE)",
+        "expDate": "24.9.2035",
+        "category": "Medicine",
+        "quantity_rem": 241
+    },
+    {
+        "productBarCode": 9869131533181,
+        "name": "CERNOS",
+        "expDate": "2.5.2038",
+        "category": "Medicine",
+        "quantity_rem": 506
+    },
+    {
+        "productBarCode": 4946647992603,
+        "name": "CERNOS GEL",
+        "expDate": "29.5.2025",
+        "category": "Medicine",
+        "quantity_rem": 941
+    },
+    {
+        "productBarCode": 3381864436171,
+        "name": "CEROXIM TABLETS ",
+        "expDate": "7.5.2036",
+        "category": "Medicine",
+        "quantity_rem": 874
+    },
+    {
+        "productBarCode": 5229157606016,
+        "name": "CEROXIM XP 625 MG TABLETS",
+        "expDate": "2.9.2043",
+        "category": "Medicine",
+        "quantity_rem": 438
+    },
+    {
+        "productBarCode": 7830014397198,
+        "name": "CEROXIM-I 750 INJECTION",
+        "expDate": "2.3.2041",
+        "category": "Medicine",
+        "quantity_rem": 475
+    },
+    {
+        "productBarCode": 1096198260285,
+        "name": "CERUVIN AF CAPSULE  ",
+        "expDate": "18.5.2032",
+        "category": "Medicine",
+        "quantity_rem": 514
+    },
+    {
+        "productBarCode": 7920428857642,
+        "name": "CERUVIN TABLETS 75 MG ",
+        "expDate": "3.7.2022",
+        "category": "Medicine",
+        "quantity_rem": 891
+    },
+    {
+        "productBarCode": 5090348051098,
+        "name": "CETRIZET 5",
+        "expDate": "27.2.2028",
+        "category": "Medicine",
+        "quantity_rem": 388
+    },
+    {
+        "productBarCode": 7259056892434,
+        "name": "CIALO LOTION ",
+        "expDate": "17.1.2024",
+        "category": "Medicine",
+        "quantity_rem": 611
+    },
+    {
+        "productBarCode": 3657985012638,
+        "name": "CIFRAN CTH TABLETS",
+        "expDate": "6.7.2024",
+        "category": "Medicine",
+        "quantity_rem": 657
+    },
+    {
+        "productBarCode": 5591871165944,
+        "name": "CIFRAN INFUSION",
+        "expDate": "8.6.2022",
+        "category": "Medicine",
+        "quantity_rem": 355
+    },
+    {
+        "productBarCode": 9275371672925,
+        "name": "CIFRAN OD TABLETS 500 MG",
+        "expDate": "14.4.2039",
+        "category": "Medicine",
+        "quantity_rem": 357
+    },
+    {
+        "productBarCode": 6729768141959,
+        "name": "CIFRAN OZ TABLETS",
+        "expDate": "4.8.2044",
+        "category": "Medicine",
+        "quantity_rem": 568
+    },
+    {
+        "productBarCode": 7848209847982,
+        "name": "CIFRAN TABLETS 250 MG",
+        "expDate": "24.4.2025",
+        "category": "Medicine",
+        "quantity_rem": 882
+    },
+    {
+        "productBarCode": 8152793645710,
+        "name": "CIFRAN TABLETS 750 MG",
+        "expDate": "4.11.2040",
+        "category": "Medicine",
+        "quantity_rem": 704
+    },
+    {
+        "productBarCode": 4577543767495,
+        "name": "CILANEM 1G",
+        "expDate": "18.9.2042",
+        "category": "Medicine",
+        "quantity_rem": 575
+    },
+    {
+        "productBarCode": 4377704788231,
+        "name": "CILANEM INJ 500MG",
+        "expDate": "8.12.2018",
+        "category": "Medicine",
+        "quantity_rem": 371
+    },
+    {
+        "productBarCode": 7175979059408,
+        "name": "CILENTRA PLUS  ",
+        "expDate": "28.12.2034",
+        "category": "Medicine",
+        "quantity_rem": 808
+    },
+    {
+        "productBarCode": 6409258111841,
+        "name": "CILENTRA TABLETS. 20 MG. ",
+        "expDate": "8.1.2041",
+        "category": "Medicine",
+        "quantity_rem": 443
+    },
+    {
+        "productBarCode": 2458391978805,
+        "name": "CITELAC INJ 250MG 2ML",
+        "expDate": "22.11.2032",
+        "category": "Medicine",
+        "quantity_rem": 419
+    },
+    {
+        "productBarCode": 2495205618626,
+        "name": "CITELEC OD 1GM TABLETS",
+        "expDate": "7.5.2042",
+        "category": "Medicine",
+        "quantity_rem": 531
+    },
+    {
+        "productBarCode": 8952626943743,
+        "name": "CLEFT TABLETS 10 MG.  ",
+        "expDate": "28.10.2025",
+        "category": "Medicine",
+        "quantity_rem": 704
+    },
+    {
+        "productBarCode": 8184243123978,
+        "name": "CLIXEL  INJ 100 MG",
+        "expDate": "14.3.2038",
+        "category": "Medicine",
+        "quantity_rem": 346
+    },
+    {
+        "productBarCode": 3387807347525,
+        "name": "CLIXEL  INJ 300 MG",
+        "expDate": "7.12.2039",
+        "category": "Medicine",
+        "quantity_rem": 502
+    },
+    {
+        "productBarCode": 9376363246748,
+        "name": "CLOFRANIL 10",
+        "expDate": "5.2.2038",
+        "category": "Medicine",
+        "quantity_rem": 719
+    },
+    {
+        "productBarCode": 6592645502315,
+        "name": "CLOFRANIL-SR",
+        "expDate": "20.7.2032",
+        "category": "Medicine",
+        "quantity_rem": 163
+    },
+    {
+        "productBarCode": 3704616912534,
+        "name": "CLOPILET A 150",
+        "expDate": "26.1.2040",
+        "category": "Medicine",
+        "quantity_rem": 721
+    },
+    {
+        "productBarCode": 7314664804137,
+        "name": "COBESE CAP.120MG",
+        "expDate": "8.12.2020",
+        "category": "Medicine",
+        "quantity_rem": 436
+    },
+    {
+        "productBarCode": 8915281236753,
+        "name": "COGNITOL-5",
+        "expDate": "6.4.2018",
+        "category": "Medicine",
+        "quantity_rem": 427
+    },
+    {
+        "productBarCode": 2284342411903,
+        "name": "COMBISURE 125",
+        "expDate": "26.10.2043",
+        "category": "Medicine",
+        "quantity_rem": 181
+    },
+    {
+        "productBarCode": 5917745808695,
+        "name": "COMBITIDE-100 DISK",
+        "expDate": "26.9.2042",
+        "category": "Medicine",
+        "quantity_rem": 972
+    },
+    {
+        "productBarCode": 1236310339795,
+        "name": "COMBITIDE-250 (N.F.)",
+        "expDate": "4.10.2039",
+        "category": "Medicine",
+        "quantity_rem": 546
+    },
+    {
+        "productBarCode": 9684376360915,
+        "name": "COMBITIDE-50 (N.F.)",
+        "expDate": "14.1.2037",
+        "category": "Medicine",
+        "quantity_rem": 342
+    },
+    {
+        "productBarCode": 7315112769221,
+        "name": "CONTIFLO D KIT",
+        "expDate": "12.5.2026",
+        "category": "Medicine",
+        "quantity_rem": 367
+    },
+    {
+        "productBarCode": 6900155767478,
+        "name": "CONTIFLO OD- F TABLETS    ",
+        "expDate": "28.3.2038",
+        "category": "Medicine",
+        "quantity_rem": 327
+    },
+    {
+        "productBarCode": 2235304778136,
+        "name": "COVAMLO TABLETS  ",
+        "expDate": "22.11.2041",
+        "category": "Medicine",
+        "quantity_rem": 720
+    },
+    {
+        "productBarCode": 5306184187571,
+        "name": "COVANCE TABLETS 25 MG ",
+        "expDate": "17.12.2022",
+        "category": "Medicine",
+        "quantity_rem": 885
+    },
+    {
+        "productBarCode": 2768623430018,
+        "name": "COVANCE TABLETS 50MG 30'S CP ",
+        "expDate": "26.3.2041",
+        "category": "Medicine",
+        "quantity_rem": 667
+    },
+    {
+        "productBarCode": 1963492867067,
+        "name": "COVANCE-D TABLETS   ",
+        "expDate": "5.11.2036",
+        "category": "Medicine",
+        "quantity_rem": 609
+    },
+    {
+        "productBarCode": 2479872031986,
+        "name": "CPZ-100(CHLORPROMAZINE)",
+        "expDate": "4.8.2020",
+        "category": "Medicine",
+        "quantity_rem": 663
+    },
+    {
+        "productBarCode": 5897009402301,
+        "name": "CRIXAN GEL 1% W/W 15 GM",
+        "expDate": "18.5.2026",
+        "category": "Medicine",
+        "quantity_rem": 670
+    },
+    {
+        "productBarCode": 3211424738307,
+        "name": "CRIXAN SUSPENSION 125 MG/5 ML",
+        "expDate": "10.10.2035",
+        "category": "Medicine",
+        "quantity_rem": 154
+    },
+    {
+        "productBarCode": 4092534938435,
+        "name": "CROLIM CAPSULES 0.5MG",
+        "expDate": "31.11.2032",
+        "category": "Medicine",
+        "quantity_rem": 647
+    },
+    {
+        "productBarCode": 1668955234261,
+        "name": "CROLIM OINTMENT 15 GM 0.03% W/W ",
+        "expDate": "20.4.2042",
+        "category": "Medicine",
+        "quantity_rem": 522
+    },
+    {
+        "productBarCode": 8002301207392,
+        "name": "CUTIZONE CREAM ",
+        "expDate": "14.5.2040",
+        "category": "Medicine",
+        "quantity_rem": 867
+    },
+    {
+        "productBarCode": 2050837609975,
+        "name": "CYCLOMUNE",
+        "expDate": "11.11.2034",
+        "category": "Medicine",
+        "quantity_rem": 588
+    },
+    {
+        "productBarCode": 9993275368443,
+        "name": "CYCLOPENT 1%-5ML",
+        "expDate": "25.5.2044",
+        "category": "Medicine",
+        "quantity_rem": 689
+    },
+    {
+        "productBarCode": 4290170925806,
+        "name": "D-VENIZ 100",
+        "expDate": "18.2.2030",
+        "category": "Medicine",
+        "quantity_rem": 962
+    },
+    {
+        "productBarCode": 9449916695295,
+        "name": "D-WELL CHEWTABLETS",
+        "expDate": "22.5.2020",
+        "category": "Medicine",
+        "quantity_rem": 800
+    },
+    {
+        "productBarCode": 7984750285595,
+        "name": "D-WELL MOUTH DISSOLVING GRANULES",
+        "expDate": "7.7.2040",
+        "category": "Medicine",
+        "quantity_rem": 299
+    },
+    {
+        "productBarCode": 4956044982940,
+        "name": "DARBESURE 25MG",
+        "expDate": "5.3.2035",
+        "category": "Medicine",
+        "quantity_rem": 811
+    },
+    {
+        "productBarCode": 2947616359728,
+        "name": "DARILONG 15",
+        "expDate": "22.12.2023",
+        "category": "Medicine",
+        "quantity_rem": 244
+    },
+    {
+        "productBarCode": 2505108621168,
+        "name": "DARITEN 15MG TABLETS",
+        "expDate": "6.7.2031",
+        "category": "Medicine",
+        "quantity_rem": 823
+    },
+    {
+        "productBarCode": 2610558659466,
+        "name": "DAZIT",
+        "expDate": "18.3.2022",
+        "category": "Medicine",
+        "quantity_rem": 1000
+    },
+    {
+        "productBarCode": 1680165050963,
+        "name": "DAZOLIC",
+        "expDate": "25.7.2020",
+        "category": "Medicine",
+        "quantity_rem": 231
+    },
+    {
+        "productBarCode": 7764464076624,
+        "name": "DAZTOR 20",
+        "expDate": "21.11.2024",
+        "category": "Medicine",
+        "quantity_rem": 423
+    },
+    {
+        "productBarCode": 9816020441633,
+        "name": "DEFRIJET 250",
+        "expDate": "10.1.2017",
+        "category": "Medicine",
+        "quantity_rem": 760
+    },
+    {
+        "productBarCode": 7142188626731,
+        "name": "DEPOPRED 1ML",
+        "expDate": "15.12.2023",
+        "category": "Medicine",
+        "quantity_rem": 553
+    },
+    {
+        "productBarCode": 8903692743563,
+        "name": "DESLOR",
+        "expDate": "10.7.2034",
+        "category": "Medicine",
+        "quantity_rem": 521
+    },
+    {
+        "productBarCode": 2332820480694,
+        "name": "DESVAL ER TABLETS 125 MG  ",
+        "expDate": "25.5.2043",
+        "category": "Medicine",
+        "quantity_rem": 678
+    },
+    {
+        "productBarCode": 8519077639465,
+        "name": "DESVAL ER TABLETS 500 MG  ",
+        "expDate": "11.5.2021",
+        "category": "Medicine",
+        "quantity_rem": 338
+    },
+    {
+        "productBarCode": 7483256859389,
+        "name": "DICORATE ER 125",
+        "expDate": "16.8.2035",
+        "category": "Medicine",
+        "quantity_rem": 560
+    },
+    {
+        "productBarCode": 9368346025131,
+        "name": "DICORATE ER 750",
+        "expDate": "27.9.2038",
+        "category": "Medicine",
+        "quantity_rem": 580
+    },
+    {
+        "productBarCode": 2290702403436,
+        "name": "DICORATE-ER 500",
+        "expDate": "14.8.2044",
+        "category": "Medicine",
+        "quantity_rem": 412
+    },
+    {
+        "productBarCode": 8304089223791,
+        "name": "DIPROBEC CREAM ",
+        "expDate": "31.9.2043",
+        "category": "Medicine",
+        "quantity_rem": 405
+    },
+    {
+        "productBarCode": 3783273268010,
+        "name": "DIPROVATE PLUS CREAM ",
+        "expDate": "22.7.2031",
+        "category": "Medicine",
+        "quantity_rem": 242
+    },
+    {
+        "productBarCode": 6411065995187,
+        "name": "DIPROVATE PLUS G CREAM  ",
+        "expDate": "23.2.2025",
+        "category": "Medicine",
+        "quantity_rem": 687
+    },
+    {
+        "productBarCode": 1960275435542,
+        "name": "DIPROVATE PLUS N CREAM   ",
+        "expDate": "5.3.2031",
+        "category": "Medicine",
+        "quantity_rem": 258
+    },
+    {
+        "productBarCode": 7454837097231,
+        "name": "DIPROVATE RD CREAM  ",
+        "expDate": "15.4.2042",
+        "category": "Medicine",
+        "quantity_rem": 584
+    },
+    {
+        "productBarCode": 8733146137441,
+        "name": "DOBESIL CAPS ",
+        "expDate": "13.2.2039",
+        "category": "Medicine",
+        "quantity_rem": 763
+    },
+    {
+        "productBarCode": 6372206802183,
+        "name": "DOCEFREZ 20",
+        "expDate": "18.2.2019",
+        "category": "Medicine",
+        "quantity_rem": 127
+    },
+    {
+        "productBarCode": 8136163338072,
+        "name": "DOCEFREZ 80",
+        "expDate": "24.2.2038",
+        "category": "Medicine",
+        "quantity_rem": 627
+    },
+    {
+        "productBarCode": 6747517997646,
+        "name": "DOLAMIDE TABLETS",
+        "expDate": "1.8.2032",
+        "category": "Medicine",
+        "quantity_rem": 889
+    },
+    {
+        "productBarCode": 6231942056580,
+        "name": "DONAMEM 5",
+        "expDate": "29.9.2031",
+        "category": "Medicine",
+        "quantity_rem": 667
+    },
+    {
+        "productBarCode": 9241384638335,
+        "name": "DRONIS 30",
+        "expDate": "22.3.2038",
+        "category": "Medicine",
+        "quantity_rem": 216
+    },
+    {
+        "productBarCode": 2125504164091,
+        "name": "DULANE 20",
+        "expDate": "1.1.2022",
+        "category": "Medicine",
+        "quantity_rem": 373
+    },
+    {
+        "productBarCode": 7399444527472,
+        "name": "DULANE M 20",
+        "expDate": "11.8.2028",
+        "category": "Medicine",
+        "quantity_rem": 779
+    },
+    {
+        "productBarCode": 1130683354653,
+        "name": "DURALAST 30",
+        "expDate": "16.11.2029",
+        "category": "Medicine",
+        "quantity_rem": 540
+    },
+    {
+        "productBarCode": 8501262535919,
+        "name": "DUTAGEN SOFGEL 0.5 MG.",
+        "expDate": "15.10.2027",
+        "category": "Medicine",
+        "quantity_rem": 315
+    },
+    {
+        "productBarCode": 8237332646308,
+        "name": "DUZELA 30",
+        "expDate": "24.1.2030",
+        "category": "Medicine",
+        "quantity_rem": 547
+    },
+    {
+        "productBarCode": 6186605172433,
+        "name": "DUZELA 60",
+        "expDate": "10.1.2022",
+        "category": "Medicine",
+        "quantity_rem": 997
+    },
+    {
+        "productBarCode": 2688148738830,
+        "name": "DUZELA M 30",
+        "expDate": "10.2.2025",
+        "category": "Medicine",
+        "quantity_rem": 123
+    },
+    {
+        "productBarCode": 5079749315494,
+        "name": "EFFERVEN TABLETS 600 MG ",
+        "expDate": "10.11.2025",
+        "category": "Medicine",
+        "quantity_rem": 325
+    },
+    {
+        "productBarCode": 4761820470746,
+        "name": "EFIPLAT 10",
+        "expDate": "12.3.2018",
+        "category": "Medicine",
+        "quantity_rem": 684
+    },
+    {
+        "productBarCode": 2854422882872,
+        "name": "EFNASE 15ML ",
+        "expDate": "3.2.2027",
+        "category": "Medicine",
+        "quantity_rem": 163
+    },
+    {
+        "productBarCode": 6162434181252,
+        "name": "EGLITON 5MIU  ",
+        "expDate": "31.6.2029",
+        "category": "Medicine",
+        "quantity_rem": 187
+    },
+    {
+        "productBarCode": 5602043996168,
+        "name": "ELIGARD DEPOT 22.5 MG",
+        "expDate": "20.6.2036",
+        "category": "Medicine",
+        "quantity_rem": 973
+    },
+    {
+        "productBarCode": 2457111616377,
+        "name": "ELIWEL",
+        "expDate": "10.11.2043",
+        "category": "Medicine",
+        "quantity_rem": 459
+    },
+    {
+        "productBarCode": 3041001558501,
+        "name": "ELIWEL-10",
+        "expDate": "24.11.2029",
+        "category": "Medicine",
+        "quantity_rem": 672
+    },
+    {
+        "productBarCode": 1328737623792,
+        "name": "EMARSA INJ 350MG",
+        "expDate": "11.2.2025",
+        "category": "Medicine",
+        "quantity_rem": 375
+    },
+    {
+        "productBarCode": 6126129719589,
+        "name": "ENCORATE 300",
+        "expDate": "28.4.2025",
+        "category": "Medicine",
+        "quantity_rem": 897
+    },
+    {
+        "productBarCode": 3927255104232,
+        "name": "ENCORATE-CHRONO 200",
+        "expDate": "2.8.2042",
+        "category": "Medicine",
+        "quantity_rem": 991
+    },
+    {
+        "productBarCode": 5367257692081,
+        "name": "ENCORATE-CHRONO 500",
+        "expDate": "24.6.2042",
+        "category": "Medicine",
+        "quantity_rem": 216
+    },
+    {
+        "productBarCode": 6590596242029,
+        "name": "ENCORATE-SYRUP 100ML 1 BTL",
+        "expDate": "7.7.2019",
+        "category": "Medicine",
+        "quantity_rem": 316
+    },
+    {
+        "productBarCode": 3619952645232,
+        "name": "ENTECA TABLETS 0.5 MG \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ",
+        "expDate": "14.11.2033",
+        "category": "Medicine",
+        "quantity_rem": 239
+    },
+    {
+        "productBarCode": 5725071675014,
+        "name": "ENVOCIN INJECTION 50MG",
+        "expDate": "15.7.2020",
+        "category": "Medicine",
+        "quantity_rem": 731
+    },
+    {
+        "productBarCode": 3364820670580,
+        "name": "EPIVAL SYRUP 200ML 1 BTL",
+        "expDate": "1.9.2033",
+        "category": "Medicine",
+        "quantity_rem": 591
+    },
+    {
+        "productBarCode": 1397088495273,
+        "name": "EPTIFLO 10ML",
+        "expDate": "1.1.2034",
+        "category": "Medicine",
+        "quantity_rem": 674
+    },
+    {
+        "productBarCode": 2176842374544,
+        "name": "ESSVITAL TABLETS",
+        "expDate": "1.1.2038",
+        "category": "Medicine",
+        "quantity_rem": 396
+    },
+    {
+        "productBarCode": 8615721050237,
+        "name": "ETILITE TABLETS 1MG    ",
+        "expDate": "23.12.2031",
+        "category": "Medicine",
+        "quantity_rem": 235
+    },
+    {
+        "productBarCode": 5304122271690,
+        "name": "ETIREST 1",
+        "expDate": "29.2.2030",
+        "category": "Medicine",
+        "quantity_rem": 861
+    },
+    {
+        "productBarCode": 7212501637159,
+        "name": "ETOSHINE 60",
+        "expDate": "13.4.2021",
+        "category": "Medicine",
+        "quantity_rem": 590
+    },
+    {
+        "productBarCode": 4910254147452,
+        "name": "ETOSHINE MR",
+        "expDate": "15.7.2024",
+        "category": "Medicine",
+        "quantity_rem": 710
+    },
+    {
+        "productBarCode": 4489152074715,
+        "name": "ETROBAX MR 8 TABLETS",
+        "expDate": "10.5.2033",
+        "category": "Medicine",
+        "quantity_rem": 786
+    },
+    {
+        "productBarCode": 4088126747519,
+        "name": "ETROBAX TABLETS 60MG",
+        "expDate": "9.2.2027",
+        "category": "Medicine",
+        "quantity_rem": 756
+    },
+    {
+        "productBarCode": 1371959088785,
+        "name": "EXAPRIDE",
+        "expDate": "9.1.2029",
+        "category": "Medicine",
+        "quantity_rem": 451
+    },
+    {
+        "productBarCode": 6612626971365,
+        "name": "EXEL CREAM ",
+        "expDate": "18.1.2037",
+        "category": "Medicine",
+        "quantity_rem": 256
+    },
+    {
+        "productBarCode": 1180955084386,
+        "name": "EXEL-M SKIN CREAM ",
+        "expDate": "8.5.2027",
+        "category": "Medicine",
+        "quantity_rem": 957
+    },
+    {
+        "productBarCode": 4887635193073,
+        "name": "EXZILOR",
+        "expDate": "3.5.2026",
+        "category": "Medicine",
+        "quantity_rem": 420
+    },
+    {
+        "productBarCode": 3165863571852,
+        "name": "EYEMIST FORTE",
+        "expDate": "29.7.2041",
+        "category": "Medicine",
+        "quantity_rem": 212
+    },
+    {
+        "productBarCode": 3488486783990,
+        "name": "EZACT 120",
+        "expDate": "2.5.2020",
+        "category": "Medicine",
+        "quantity_rem": 699
+    },
+    {
+        "productBarCode": 5388129671154,
+        "name": "EZACT 90",
+        "expDate": "21.12.2023",
+        "category": "Medicine",
+        "quantity_rem": 945
+    },
+    {
+        "productBarCode": 7240200925608,
+        "name": "FACIDASE INJ 2ML AMP",
+        "expDate": "3.7.2020",
+        "category": "Medicine",
+        "quantity_rem": 933
+    },
+    {
+        "productBarCode": 4521194272254,
+        "name": "FAMOCID 40MG 14 TAB",
+        "expDate": "7.3.2031",
+        "category": "Medicine",
+        "quantity_rem": 174
+    },
+    {
+        "productBarCode": 9127118299372,
+        "name": "FEBUGET 40",
+        "expDate": "6.4.2042",
+        "category": "Medicine",
+        "quantity_rem": 583
+    },
+    {
+        "productBarCode": 7976657912782,
+        "name": "FEBUTAZ 40",
+        "expDate": "30.1.2032",
+        "category": "Medicine",
+        "quantity_rem": 791
+    },
+    {
+        "productBarCode": 7812334565563,
+        "name": "FELDEX",
+        "expDate": "9.4.2027",
+        "category": "Medicine",
+        "quantity_rem": 129
+    },
+    {
+        "productBarCode": 7883476958420,
+        "name": "FENDROP-INJ 2ML 1 AMP",
+        "expDate": "15.5.2021",
+        "category": "Medicine",
+        "quantity_rem": 859
+    },
+    {
+        "productBarCode": 4235008970777,
+        "name": "FERINCA",
+        "expDate": "15.10.2041",
+        "category": "Medicine",
+        "quantity_rem": 706
+    },
+    {
+        "productBarCode": 1578900735493,
+        "name": "FERTIGYN 2000",
+        "expDate": "10.10.2021",
+        "category": "Medicine",
+        "quantity_rem": 245
+    },
+    {
+        "productBarCode": 4647176320847,
+        "name": "FERTISURE M",
+        "expDate": "17.2.2040",
+        "category": "Medicine",
+        "quantity_rem": 788
+    },
+    {
+        "productBarCode": 1872080540957,
+        "name": "FIBATOR 20 [N.F]",
+        "expDate": "8.9.2024",
+        "category": "Medicine",
+        "quantity_rem": 994
+    },
+    {
+        "productBarCode": 9651456360637,
+        "name": "FIBATOR EZ",
+        "expDate": "3.3.2032",
+        "category": "Medicine",
+        "quantity_rem": 485
+    },
+    {
+        "productBarCode": 6027817020093,
+        "name": "FIBATOR [N.F]",
+        "expDate": "14.1.2030",
+        "category": "Medicine",
+        "quantity_rem": 155
+    },
+    {
+        "productBarCode": 3865932079285,
+        "name": "FLEXURA D",
+        "expDate": "6.2.2030",
+        "category": "Medicine",
+        "quantity_rem": 496
+    },
+    {
+        "productBarCode": 4874416381816,
+        "name": "FLOTHIN 40 MG INJ. ",
+        "expDate": "4.6.2036",
+        "category": "Medicine",
+        "quantity_rem": 809
+    },
+    {
+        "productBarCode": 7879985157857,
+        "name": "FLOTRAL D KIT",
+        "expDate": "15.1.2042",
+        "category": "Medicine",
+        "quantity_rem": 691
+    },
+    {
+        "productBarCode": 6892151355363,
+        "name": "FLUPRED",
+        "expDate": "29.7.2040",
+        "category": "Medicine",
+        "quantity_rem": 404
+    },
+    {
+        "productBarCode": 6892803967467,
+        "name": "FLUVOXIN 50",
+        "expDate": "2.7.2028",
+        "category": "Medicine",
+        "quantity_rem": 520
+    },
+    {
+        "productBarCode": 3789726783195,
+        "name": "FLUVOXIN CR 50",
+        "expDate": "1.9.2019",
+        "category": "Medicine",
+        "quantity_rem": 289
+    },
+    {
+        "productBarCode": 2212454725127,
+        "name": "FLUZET CF  60 ML",
+        "expDate": "31.6.2023",
+        "category": "Medicine",
+        "quantity_rem": 119
+    },
+    {
+        "productBarCode": 8703806480909,
+        "name": "FOMTIDE 100 (N.F)",
+        "expDate": "18.3.2031",
+        "category": "Medicine",
+        "quantity_rem": 675
+    },
+    {
+        "productBarCode": 9538660713677,
+        "name": "FOMTIDE 400 (N.F)",
+        "expDate": "12.7.2043",
+        "category": "Medicine",
+        "quantity_rem": 980
+    },
+    {
+        "productBarCode": 9110592749579,
+        "name": "FOMTIDE-200 DISK",
+        "expDate": "26.3.2035",
+        "category": "Medicine",
+        "quantity_rem": 188
+    },
+    {
+        "productBarCode": 9397180852478,
+        "name": "FORZEST TABLETS ",
+        "expDate": "2.6.2028",
+        "category": "Medicine",
+        "quantity_rem": 143
+    },
+    {
+        "productBarCode": 5713041441528,
+        "name": "FOSENTIN 2ML",
+        "expDate": "2.12.2038",
+        "category": "Medicine",
+        "quantity_rem": 737
+    },
+    {
+        "productBarCode": 4197778591254,
+        "name": "FUCIDIN CREAM ",
+        "expDate": "10.10.2038",
+        "category": "Medicine",
+        "quantity_rem": 159
+    },
+    {
+        "productBarCode": 9231575675171,
+        "name": "FUCIDIN H CREAM ",
+        "expDate": "15.6.2037",
+        "category": "Medicine",
+        "quantity_rem": 598
+    },
+    {
+        "productBarCode": 9564140317788,
+        "name": "FUCIDIN OINTMENT ",
+        "expDate": "1.10.2018",
+        "category": "Medicine",
+        "quantity_rem": 725
+    },
+    {
+        "productBarCode": 9767688959686,
+        "name": "FULSED INJECTION 10ML VIAL",
+        "expDate": "30.11.2017",
+        "category": "Medicine",
+        "quantity_rem": 183
+    },
+    {
+        "productBarCode": 6101899354145,
+        "name": "FULSED INJECTION 5ML VIAL",
+        "expDate": "18.10.2037",
+        "category": "Medicine",
+        "quantity_rem": 808
+    },
+    {
+        "productBarCode": 6086235730065,
+        "name": "GABANTIN 400",
+        "expDate": "16.5.2031",
+        "category": "Medicine",
+        "quantity_rem": 921
+    },
+    {
+        "productBarCode": 6735482436463,
+        "name": "GABANTIN PLUS",
+        "expDate": "5.2.2033",
+        "category": "Medicine",
+        "quantity_rem": 793
+    },
+    {
+        "productBarCode": 9388638525643,
+        "name": "GALAMER 4",
+        "expDate": "20.6.2019",
+        "category": "Medicine",
+        "quantity_rem": 157
+    },
+    {
+        "productBarCode": 2543532221802,
+        "name": "GALAMER OD 8",
+        "expDate": "29.6.2035",
+        "category": "Medicine",
+        "quantity_rem": 368
+    },
+    {
+        "productBarCode": 6144348268525,
+        "name": "GALINERVE M 75",
+        "expDate": "22.11.2045",
+        "category": "Medicine",
+        "quantity_rem": 958
+    },
+    {
+        "productBarCode": 4730419840548,
+        "name": "GANGUARD CAP 500MG  B10",
+        "expDate": "13.6.2045",
+        "category": "Medicine",
+        "quantity_rem": 575
+    },
+    {
+        "productBarCode": 2353510236968,
+        "name": "GATILOX DM (10ML) BTL",
+        "expDate": "22.6.2036",
+        "category": "Medicine",
+        "quantity_rem": 595
+    },
+    {
+        "productBarCode": 2475932367965,
+        "name": "GATILOX PLUS E/D 5ML",
+        "expDate": "8.7.2032",
+        "category": "Medicine",
+        "quantity_rem": 944
+    },
+    {
+        "productBarCode": 8220177802605,
+        "name": "GEMBAX TABLETS 400MG",
+        "expDate": "9.12.2021",
+        "category": "Medicine",
+        "quantity_rem": 548
+    },
+    {
+        "productBarCode": 3505477728969,
+        "name": "GEMER 2 [BI-LAYERED TABLETS]",
+        "expDate": "26.2.2039",
+        "category": "Medicine",
+        "quantity_rem": 935
+    },
+    {
+        "productBarCode": 2280052248190,
+        "name": "GEMER FORTE 2",
+        "expDate": "20.2.2025",
+        "category": "Medicine",
+        "quantity_rem": 174
+    },
+    {
+        "productBarCode": 4846463496257,
+        "name": "GEMER P2",
+        "expDate": "19.8.2041",
+        "category": "Medicine",
+        "quantity_rem": 193
+    },
+    {
+        "productBarCode": 5737372531572,
+        "name": "GEMER PL 2",
+        "expDate": "24.8.2028",
+        "category": "Medicine",
+        "quantity_rem": 400
+    },
+    {
+        "productBarCode": 7826444220443,
+        "name": "GEMTAZ 200",
+        "expDate": "13.1.2032",
+        "category": "Medicine",
+        "quantity_rem": 823
+    },
+    {
+        "productBarCode": 5454685691689,
+        "name": "GENTALENE PLUS CREAM ",
+        "expDate": "21.4.2024",
+        "category": "Medicine",
+        "quantity_rem": 838
+    },
+    {
+        "productBarCode": 8975222617743,
+        "name": "GINKOCER TABLETS  ",
+        "expDate": "18.12.2036",
+        "category": "Medicine",
+        "quantity_rem": 675
+    },
+    {
+        "productBarCode": 6475499691895,
+        "name": "GLIMPID TABLETS 2MG",
+        "expDate": "20.1.2029",
+        "category": "Medicine",
+        "quantity_rem": 641
+    },
+    {
+        "productBarCode": 8658790700376,
+        "name": "GLIOTEM-20",
+        "expDate": "28.9.2039",
+        "category": "Medicine",
+        "quantity_rem": 185
+    },
+    {
+        "productBarCode": 5608600580973,
+        "name": "GLUCORED",
+        "expDate": "19.1.2020",
+        "category": "Medicine",
+        "quantity_rem": 709
+    },
+    {
+        "productBarCode": 9899906825781,
+        "name": "GLUCORED FORTE 850",
+        "expDate": "3.12.2030",
+        "category": "Medicine",
+        "quantity_rem": 554
+    },
+    {
+        "productBarCode": 2975132502585,
+        "name": "GLUGEN",
+        "expDate": "31.12.2038",
+        "category": "Medicine",
+        "quantity_rem": 911
+    },
+    {
+        "productBarCode": 9642630614395,
+        "name": "GLYPRIDE-2",
+        "expDate": "19.12.2039",
+        "category": "Medicine",
+        "quantity_rem": 722
+    },
+    {
+        "productBarCode": 4365762648506,
+        "name": "GLYTEARS",
+        "expDate": "3.9.2032",
+        "category": "Medicine",
+        "quantity_rem": 458
+    },
+    {
+        "productBarCode": 7435803790619,
+        "name": "GMH 75 2ML VIAL",
+        "expDate": "22.2.2026",
+        "category": "Medicine",
+        "quantity_rem": 973
+    },
+    {
+        "productBarCode": 7776863120215,
+        "name": "GRAFTIN SOFGEL 100 MG 5S ",
+        "expDate": "10.8.2043",
+        "category": "Medicine",
+        "quantity_rem": 789
+    },
+    {
+        "productBarCode": 1902076741807,
+        "name": "GRAFTIN SOFGEL 50 MG 5S ",
+        "expDate": "15.11.2034",
+        "category": "Medicine",
+        "quantity_rem": 201
+    },
+    {
+        "productBarCode": 8607309963367,
+        "name": "GRAMOGYL TABLETS",
+        "expDate": "15.2.2019",
+        "category": "Medicine",
+        "quantity_rem": 317
+    },
+    {
+        "productBarCode": 1548682489221,
+        "name": "GRAMONEG SUSPENSION",
+        "expDate": "26.12.2026",
+        "category": "Medicine",
+        "quantity_rem": 151
+    },
+    {
+        "productBarCode": 8643601912860,
+        "name": "GRANISET-3 INJ 1 AMP",
+        "expDate": "28.4.2037",
+        "category": "Medicine",
+        "quantity_rem": 177
+    },
+    {
+        "productBarCode": 7945022823473,
+        "name": "GRAVITOR-SR",
+        "expDate": "9.5.2036",
+        "category": "Medicine",
+        "quantity_rem": 443
+    },
+    {
+        "productBarCode": 3482842233316,
+        "name": "GYNAZOL 200",
+        "expDate": "10.8.2041",
+        "category": "Medicine",
+        "quantity_rem": 563
+    },
+    {
+        "productBarCode": 4892767636331,
+        "name": "HALOX CREAM ",
+        "expDate": "31.2.2026",
+        "category": "Medicine",
+        "quantity_rem": 989
+    },
+    {
+        "productBarCode": 4477197649510,
+        "name": "HALOX F CREAM ",
+        "expDate": "7.6.2042",
+        "category": "Medicine",
+        "quantity_rem": 853
+    },
+    {
+        "productBarCode": 1102965970085,
+        "name": "HALOX OINTMENT ",
+        "expDate": "1.12.2025",
+        "category": "Medicine",
+        "quantity_rem": 320
+    },
+    {
+        "productBarCode": 5572693610488,
+        "name": "HALOX S OINTMENT ",
+        "expDate": "27.11.2023",
+        "category": "Medicine",
+        "quantity_rem": 233
+    },
+    {
+        "productBarCode": 3314514618256,
+        "name": "HEADON INJECTION 4 IU",
+        "expDate": "23.11.2025",
+        "category": "Medicine",
+        "quantity_rem": 913
+    },
+    {
+        "productBarCode": 6446805181395,
+        "name": "HISTAC INJECTION",
+        "expDate": "31.11.2036",
+        "category": "Medicine",
+        "quantity_rem": 153
+    },
+    {
+        "productBarCode": 6545834258824,
+        "name": "HISTAC TABLETS 300 MG",
+        "expDate": "10.9.2024",
+        "category": "Medicine",
+        "quantity_rem": 395
+    },
+    {
+        "productBarCode": 4063605315322,
+        "name": "HYCLEAN TF CREAM   ",
+        "expDate": "21.2.2027",
+        "category": "Medicine",
+        "quantity_rem": 200
+    },
+    {
+        "productBarCode": 1811681008230,
+        "name": "HYNOV INJECTION 8MG/ML",
+        "expDate": "30.4.2038",
+        "category": "Medicine",
+        "quantity_rem": 485
+    },
+    {
+        "productBarCode": 3741990569986,
+        "name": "HYVISC PLUS-0.55ML",
+        "expDate": "1.11.2024",
+        "category": "Medicine",
+        "quantity_rem": 466
+    },
+    {
+        "productBarCode": 6088973965025,
+        "name": "IDROFOS 150",
+        "expDate": "27.9.2027",
+        "category": "Medicine",
+        "quantity_rem": 771
+    },
+    {
+        "productBarCode": 1969225171898,
+        "name": "IDROFOS 50",
+        "expDate": "1.8.2034",
+        "category": "Medicine",
+        "quantity_rem": 332
+    },
+    {
+        "productBarCode": 6391120826936,
+        "name": "ILOSURE 2",
+        "expDate": "31.8.2023",
+        "category": "Medicine",
+        "quantity_rem": 388
+    },
+    {
+        "productBarCode": 4255331278934,
+        "name": "ILOSURE 6",
+        "expDate": "12.3.2027",
+        "category": "Medicine",
+        "quantity_rem": 667
+    },
+    {
+        "productBarCode": 1199655186310,
+        "name": "IMALEK 400",
+        "expDate": "15.2.2030",
+        "category": "Medicine",
+        "quantity_rem": 554
+    },
+    {
+        "productBarCode": 1195089777100,
+        "name": "INSUCARE M30 INJ. 40IU/ML, 10 ML ",
+        "expDate": "12.12.2042",
+        "category": "Medicine",
+        "quantity_rem": 774
+    },
+    {
+        "productBarCode": 3907736724831,
+        "name": "INSUCARE N INJ. 40IU/ML, 10 ML",
+        "expDate": "13.4.2034",
+        "category": "Medicine",
+        "quantity_rem": 931
+    },
+    {
+        "productBarCode": 6278780131473,
+        "name": "IRNOGEN 100 MG  ",
+        "expDate": "27.4.2018",
+        "category": "Medicine",
+        "quantity_rem": 694
+    },
+    {
+        "productBarCode": 2796127746788,
+        "name": "IROVEL-150",
+        "expDate": "29.10.2044",
+        "category": "Medicine",
+        "quantity_rem": 282
+    },
+    {
+        "productBarCode": 7944084612354,
+        "name": "IROVEL-H",
+        "expDate": "19.12.2021",
+        "category": "Medicine",
+        "quantity_rem": 747
+    },
+    {
+        "productBarCode": 2422933924412,
+        "name": "ISTAMET 50MG/1000MG",
+        "expDate": "14.2.2036",
+        "category": "Medicine",
+        "quantity_rem": 860
+    },
+    {
+        "productBarCode": 4803117751308,
+        "name": "ISTAVEL 100",
+        "expDate": "22.11.2044",
+        "category": "Medicine",
+        "quantity_rem": 568
+    },
+    {
+        "productBarCode": 5666217655652,
+        "name": "ISTAVEL 50",
+        "expDate": "20.7.2036",
+        "category": "Medicine",
+        "quantity_rem": 107
+    },
+    {
+        "productBarCode": 1763933657549,
+        "name": "IVEPRED 4",
+        "expDate": "28.10.2042",
+        "category": "Medicine",
+        "quantity_rem": 593
+    },
+    {
+        "productBarCode": 2244639332885,
+        "name": "IVEPRED-1000 INJ",
+        "expDate": "13.5.2044",
+        "category": "Medicine",
+        "quantity_rem": 292
+    },
+    {
+        "productBarCode": 6237512484188,
+        "name": "IVEPRED-40 INJ",
+        "expDate": "22.2.2031",
+        "category": "Medicine",
+        "quantity_rem": 116
+    },
+    {
+        "productBarCode": 3787209013646,
+        "name": "IVERMECTOL-12 MG  ",
+        "expDate": "17.8.2028",
+        "category": "Medicine",
+        "quantity_rem": 734
+    },
+    {
+        "productBarCode": 7361081536569,
+        "name": "IVERMECTOL-6 MG",
+        "expDate": "21.4.2026",
+        "category": "Medicine",
+        "quantity_rem": 520
+    },
+    {
+        "productBarCode": 6070906487208,
+        "name": "KEFLOR DISTABLETS 250 MG   ",
+        "expDate": "4.9.2043",
+        "category": "Medicine",
+        "quantity_rem": 735
+    },
+    {
+        "productBarCode": 3233799821575,
+        "name": "KEFLOR REDIMIX 125 MG/5 ML",
+        "expDate": "26.7.2037",
+        "category": "Medicine",
+        "quantity_rem": 874
+    },
+    {
+        "productBarCode": 4901351989343,
+        "name": "KETANOV INJECTION  ",
+        "expDate": "8.10.2028",
+        "category": "Medicine",
+        "quantity_rem": 152
+    },
+    {
+        "productBarCode": 7217610027990,
+        "name": "KETASMA",
+        "expDate": "15.8.2038",
+        "category": "Medicine",
+        "quantity_rem": 716
+    },
+    {
+        "productBarCode": 7855619157616,
+        "name": "KETLUR PLUS",
+        "expDate": "8.4.2041",
+        "category": "Medicine",
+        "quantity_rem": 327
+    },
+    {
+        "productBarCode": 3461273401833,
+        "name": "KORANDIL-10",
+        "expDate": "7.12.2042",
+        "category": "Medicine",
+        "quantity_rem": 787
+    },
+    {
+        "productBarCode": 8808445703927,
+        "name": "KRIMSON 35",
+        "expDate": "9.8.2045",
+        "category": "Medicine",
+        "quantity_rem": 487
+    },
+    {
+        "productBarCode": 1520423429679,
+        "name": "LABEBET INJECTION 2ML",
+        "expDate": "6.3.2036",
+        "category": "Medicine",
+        "quantity_rem": 102
+    },
+    {
+        "productBarCode": 1432032889597,
+        "name": "LACOSET 150",
+        "expDate": "17.6.2019",
+        "category": "Medicine",
+        "quantity_rem": 608
+    },
+    {
+        "productBarCode": 5456598872792,
+        "name": "LACOSET 50",
+        "expDate": "4.2.2020",
+        "category": "Medicine",
+        "quantity_rem": 109
+    },
+    {
+        "productBarCode": 1086038335102,
+        "name": "LACTIFIBER 180g",
+        "expDate": "21.5.2032",
+        "category": "Medicine",
+        "quantity_rem": 196
+    },
+    {
+        "productBarCode": 8681478281129,
+        "name": "LACTIHEP SYRUP 450 ML",
+        "expDate": "6.9.2037",
+        "category": "Medicine",
+        "quantity_rem": 493
+    },
+    {
+        "productBarCode": 5372786739565,
+        "name": "LAMBIN INJECTION",
+        "expDate": "3.6.2030",
+        "category": "Medicine",
+        "quantity_rem": 717
+    },
+    {
+        "productBarCode": 3126067910167,
+        "name": "LAMOSYN 25",
+        "expDate": "25.8.2033",
+        "category": "Medicine",
+        "quantity_rem": 242
+    },
+    {
+        "productBarCode": 7559019785242,
+        "name": "LATOCOM EYE DROPS",
+        "expDate": "27.10.2018",
+        "category": "Medicine",
+        "quantity_rem": 169
+    },
+    {
+        "productBarCode": 7956112859071,
+        "name": "LATOPROST RT",
+        "expDate": "15.11.2029",
+        "category": "Medicine",
+        "quantity_rem": 212
+    },
+    {
+        "productBarCode": 5373243825561,
+        "name": "LENZEST 25",
+        "expDate": "9.8.2035",
+        "category": "Medicine",
+        "quantity_rem": 637
+    },
+    {
+        "productBarCode": 9281956870119,
+        "name": "LESURIDE INJECTION 2ML",
+        "expDate": "13.7.2033",
+        "category": "Medicine",
+        "quantity_rem": 372
+    },
+    {
+        "productBarCode": 5185138623873,
+        "name": "LETOVAL",
+        "expDate": "8.9.2042",
+        "category": "Medicine",
+        "quantity_rem": 563
+    },
+    {
+        "productBarCode": 6189395081545,
+        "name": "LETROZ",
+        "expDate": "20.1.2023",
+        "category": "Medicine",
+        "quantity_rem": 600
+    },
+    {
+        "productBarCode": 4692592310609,
+        "name": "LEVIPIL 1 G",
+        "expDate": "3.9.2022",
+        "category": "Medicine",
+        "quantity_rem": 839
+    },
+    {
+        "productBarCode": 1537923323136,
+        "name": "LEVIPIL 500",
+        "expDate": "11.6.2018",
+        "category": "Medicine",
+        "quantity_rem": 722
+    },
+    {
+        "productBarCode": 8737132023103,
+        "name": "LEVIPIL INJECTION",
+        "expDate": "27.6.2024",
+        "category": "Medicine",
+        "quantity_rem": 382
+    },
+    {
+        "productBarCode": 5502386710403,
+        "name": "LEVIPIL XR 1G",
+        "expDate": "31.10.2032",
+        "category": "Medicine",
+        "quantity_rem": 900
+    },
+    {
+        "productBarCode": 4464334445131,
+        "name": "LEVROXA INJECTION",
+        "expDate": "9.9.2025",
+        "category": "Medicine",
+        "quantity_rem": 687
+    },
+    {
+        "productBarCode": 7860708728560,
+        "name": "LEVROXA TABLETS 1000 MG  ",
+        "expDate": "25.11.2017",
+        "category": "Medicine",
+        "quantity_rem": 439
+    },
+    {
+        "productBarCode": 8912667852029,
+        "name": "LEVROXA TABLETS 500MG  ",
+        "expDate": "25.10.2038",
+        "category": "Medicine",
+        "quantity_rem": 597
+    },
+    {
+        "productBarCode": 8949727205088,
+        "name": "LIOFEN 10",
+        "expDate": "11.7.2031",
+        "category": "Medicine",
+        "quantity_rem": 824
+    },
+    {
+        "productBarCode": 7858188346753,
+        "name": "LIOFEN 5",
+        "expDate": "22.1.2017",
+        "category": "Medicine",
+        "quantity_rem": 216
+    },
+    {
+        "productBarCode": 9622777857163,
+        "name": "LIOFEN XL 20",
+        "expDate": "20.11.2021",
+        "category": "Medicine",
+        "quantity_rem": 344
+    },
+    {
+        "productBarCode": 8313220286944,
+        "name": "LIOFEN XL 40",
+        "expDate": "9.7.2031",
+        "category": "Medicine",
+        "quantity_rem": 731
+    },
+    {
+        "productBarCode": 8402154427561,
+        "name": "LIPODOX",
+        "expDate": "22.4.2023",
+        "category": "Medicine",
+        "quantity_rem": 714
+    },
+    {
+        "productBarCode": 9291190733952,
+        "name": "LIPODOX 5ML",
+        "expDate": "10.5.2022",
+        "category": "Medicine",
+        "quantity_rem": 794
+    },
+    {
+        "productBarCode": 8268650027979,
+        "name": "LITHOSUN-SR 400",
+        "expDate": "4.1.2039",
+        "category": "Medicine",
+        "quantity_rem": 989
+    },
+    {
+        "productBarCode": 4006277176056,
+        "name": "LOBAZAM 20",
+        "expDate": "25.3.2037",
+        "category": "Medicine",
+        "quantity_rem": 454
+    },
+    {
+        "productBarCode": 6406792938785,
+        "name": "LOBAZAM MD 10",
+        "expDate": "14.10.2037",
+        "category": "Medicine",
+        "quantity_rem": 865
+    },
+    {
+        "productBarCode": 2915713694360,
+        "name": "LOFECAM 4",
+        "expDate": "11.4.2022",
+        "category": "Medicine",
+        "quantity_rem": 912
+    },
+    {
+        "productBarCode": 5692116597918,
+        "name": "LOFECAM SR",
+        "expDate": "15.8.2042",
+        "category": "Medicine",
+        "quantity_rem": 920
+    },
+    {
+        "productBarCode": 9524629306774,
+        "name": "LONAZEP 0.5",
+        "expDate": "27.3.2028",
+        "category": "Medicine",
+        "quantity_rem": 652
+    },
+    {
+        "productBarCode": 1522360058544,
+        "name": "LONAZEP-0.25",
+        "expDate": "6.12.2028",
+        "category": "Medicine",
+        "quantity_rem": 120
+    },
+    {
+        "productBarCode": 6565911191179,
+        "name": "LONAZEP-MD 0.25",
+        "expDate": "28.1.2042",
+        "category": "Medicine",
+        "quantity_rem": 774
+    },
+    {
+        "productBarCode": 4854198409393,
+        "name": "LONAZEP-MD 1",
+        "expDate": "24.4.2030",
+        "category": "Medicine",
+        "quantity_rem": 568
+    },
+    {
+        "productBarCode": 1274509524124,
+        "name": "LOTENSYL-10",
+        "expDate": "23.1.2017",
+        "category": "Medicine",
+        "quantity_rem": 636
+    },
+    {
+        "productBarCode": 7112499566809,
+        "name": "LOTENSYL-AT",
+        "expDate": "17.4.2036",
+        "category": "Medicine",
+        "quantity_rem": 270
+    },
+    {
+        "productBarCode": 2205287561778,
+        "name": "LOTEPRED T",
+        "expDate": "1.10.2026",
+        "category": "Medicine",
+        "quantity_rem": 163
+    },
+    {
+        "productBarCode": 6062697974994,
+        "name": "LOXOF  TABLETS  250 MG ",
+        "expDate": "4.8.2043",
+        "category": "Medicine",
+        "quantity_rem": 819
+    },
+    {
+        "productBarCode": 2198384612749,
+        "name": "LOXOF  TABLETS  750 MG ",
+        "expDate": "16.8.2036",
+        "category": "Medicine",
+        "quantity_rem": 729
+    },
+    {
+        "productBarCode": 6188495832500,
+        "name": "LOXOF AZ 500MG+500MG TABLETS",
+        "expDate": "20.9.2017",
+        "category": "Medicine",
+        "quantity_rem": 615
+    },
+    {
+        "productBarCode": 5152563142836,
+        "name": "LOXOF OZ TABLETS   ",
+        "expDate": "8.2.2042",
+        "category": "Medicine",
+        "quantity_rem": 127
+    },
+    {
+        "productBarCode": 3405734218988,
+        "name": "LUBOWEL 8",
+        "expDate": "29.3.2038",
+        "category": "Medicine",
+        "quantity_rem": 109
+    },
+    {
+        "productBarCode": 6929984266364,
+        "name": "LULIFIN CREAM ",
+        "expDate": "22.3.2017",
+        "category": "Medicine",
+        "quantity_rem": 420
+    },
+    {
+        "productBarCode": 7486900044170,
+        "name": "LUPRIDE 1MG/0.5ML 1 AMP",
+        "expDate": "18.8.2032",
+        "category": "Medicine",
+        "quantity_rem": 376
+    },
+    {
+        "productBarCode": 2311078847991,
+        "name": "LUPRIDE DEPOT 22.50MG ( 3 MONTHS)",
+        "expDate": "28.2.2038",
+        "category": "Medicine",
+        "quantity_rem": 682
+    },
+    {
+        "productBarCode": 8257537631495,
+        "name": "LUPRIDE DEPOT-3.75MG INJ.",
+        "expDate": "22.11.2027",
+        "category": "Medicine",
+        "quantity_rem": 609
+    },
+    {
+        "productBarCode": 6800699358089,
+        "name": "LUTICA CREAM  ",
+        "expDate": "30.12.2019",
+        "category": "Medicine",
+        "quantity_rem": 200
+    },
+    {
+        "productBarCode": 2051798160666,
+        "name": "MACORATE 200",
+        "expDate": "4.10.2045",
+        "category": "Medicine",
+        "quantity_rem": 689
+    },
+    {
+        "productBarCode": 2026303476356,
+        "name": "MACORATE CR 200",
+        "expDate": "12.12.2030",
+        "category": "Medicine",
+        "quantity_rem": 933
+    },
+    {
+        "productBarCode": 7742224184724,
+        "name": "MACORATE CR 400",
+        "expDate": "22.11.2026",
+        "category": "Medicine",
+        "quantity_rem": 116
+    },
+    {
+        "productBarCode": 9352940435691,
+        "name": "MACORATE CR 600",
+        "expDate": "15.5.2018",
+        "category": "Medicine",
+        "quantity_rem": 391
+    },
+    {
+        "productBarCode": 1894874937704,
+        "name": "MAXGALIN 150",
+        "expDate": "15.8.2032",
+        "category": "Medicine",
+        "quantity_rem": 342
+    },
+    {
+        "productBarCode": 2901745459853,
+        "name": "MAXGALIN 75",
+        "expDate": "27.11.2021",
+        "category": "Medicine",
+        "quantity_rem": 270
+    },
+    {
+        "productBarCode": 8246062649814,
+        "name": "MAXGALIN ER 150",
+        "expDate": "20.5.2044",
+        "category": "Medicine",
+        "quantity_rem": 656
+    },
+    {
+        "productBarCode": 1949179020159,
+        "name": "MAXGALIN M 150",
+        "expDate": "15.6.2033",
+        "category": "Medicine",
+        "quantity_rem": 184
+    },
+    {
+        "productBarCode": 5493209060314,
+        "name": "MAXGALIN M 75",
+        "expDate": "9.12.2041",
+        "category": "Medicine",
+        "quantity_rem": 499
+    },
+    {
+        "productBarCode": 4049071868267,
+        "name": "MAXMALA",
+        "expDate": "25.1.2044",
+        "category": "Medicine",
+        "quantity_rem": 815
+    },
+    {
+        "productBarCode": 4847095644386,
+        "name": "MAXOZA L",
+        "expDate": "10.11.2026",
+        "category": "Medicine",
+        "quantity_rem": 572
+    },
+    {
+        "productBarCode": 5221875741043,
+        "name": "MEBIZ-SR",
+        "expDate": "15.6.2025",
+        "category": "Medicine",
+        "quantity_rem": 768
+    },
+    {
+        "productBarCode": 4486385091506,
+        "name": "MEDSOP ACNE 75GM",
+        "expDate": "11.11.2020",
+        "category": "Medicine",
+        "quantity_rem": 247
+    },
+    {
+        "productBarCode": 5057394617498,
+        "name": "MERIXIM 1000 MG INJECTION ",
+        "expDate": "3.5.2035",
+        "category": "Medicine",
+        "quantity_rem": 392
+    },
+    {
+        "productBarCode": 6940131381704,
+        "name": "MESACOL",
+        "expDate": "7.1.2031",
+        "category": "Medicine",
+        "quantity_rem": 158
+    },
+    {
+        "productBarCode": 1079411382380,
+        "name": "MESACOL OD",
+        "expDate": "10.6.2040",
+        "category": "Medicine",
+        "quantity_rem": 142
+    },
+    {
+        "productBarCode": 7763673432797,
+        "name": "MESACOL-ENEMA",
+        "expDate": "20.5.2033",
+        "category": "Medicine",
+        "quantity_rem": 500
+    },
+    {
+        "productBarCode": 5306613427628,
+        "name": "METHIMEZ 5",
+        "expDate": "19.6.2041",
+        "category": "Medicine",
+        "quantity_rem": 521
+    },
+    {
+        "productBarCode": 9692733934354,
+        "name": "METOSARTAN 50",
+        "expDate": "29.2.2035",
+        "category": "Medicine",
+        "quantity_rem": 485
+    },
+    {
+        "productBarCode": 1080661251831,
+        "name": "MIDOSED-INJ 5ML",
+        "expDate": "2.1.2034",
+        "category": "Medicine",
+        "quantity_rem": 579
+    },
+    {
+        "productBarCode": 5711749241545,
+        "name": "MIFEPRIN KIT",
+        "expDate": "14.12.2028",
+        "category": "Medicine",
+        "quantity_rem": 340
+    },
+    {
+        "productBarCode": 9082189438368,
+        "name": "MILBORN 50",
+        "expDate": "6.3.2020",
+        "category": "Medicine",
+        "quantity_rem": 296
+    },
+    {
+        "productBarCode": 3280034132965,
+        "name": "MILFLOX DF",
+        "expDate": "8.12.2023",
+        "category": "Medicine",
+        "quantity_rem": 467
+    },
+    {
+        "productBarCode": 9104105249859,
+        "name": "MILFLOX DM 10ML (FFS BTL)",
+        "expDate": "14.6.2040",
+        "category": "Medicine",
+        "quantity_rem": 525
+    },
+    {
+        "productBarCode": 1514176226461,
+        "name": "MILFLOX PLUS 0.4",
+        "expDate": "30.7.2037",
+        "category": "Medicine",
+        "quantity_rem": 366
+    },
+    {
+        "productBarCode": 2938155781273,
+        "name": "MINOZ S FACE WASH",
+        "expDate": "17.12.2019",
+        "category": "Medicine",
+        "quantity_rem": 336
+    },
+    {
+        "productBarCode": 8703935948549,
+        "name": "MINOZ TABLETS 50 MG  ",
+        "expDate": "28.4.2017",
+        "category": "Medicine",
+        "quantity_rem": 411
+    },
+    {
+        "productBarCode": 1269972541245,
+        "name": "MIRTAZ-30",
+        "expDate": "18.5.2045",
+        "category": "Medicine",
+        "quantity_rem": 284
+    },
+    {
+        "productBarCode": 5290586097406,
+        "name": "MOBISWIFT D 450MG TABLETS",
+        "expDate": "15.4.2039",
+        "category": "Medicine",
+        "quantity_rem": 540
+    },
+    {
+        "productBarCode": 1702990721235,
+        "name": "MODALERT 100",
+        "expDate": "15.3.2035",
+        "category": "Medicine",
+        "quantity_rem": 555
+    },
+    {
+        "productBarCode": 4182970577269,
+        "name": "MOISTUREX CALM 50ML LOTION",
+        "expDate": "3.2.2022",
+        "category": "Medicine",
+        "quantity_rem": 816
+    },
+    {
+        "productBarCode": 9901457570398,
+        "name": "MOISTUREX SOFT ",
+        "expDate": "24.8.2034",
+        "category": "Medicine",
+        "quantity_rem": 520
+    },
+    {
+        "productBarCode": 2383136260080,
+        "name": "MONDESLOR",
+        "expDate": "29.8.2023",
+        "category": "Medicine",
+        "quantity_rem": 714
+    },
+    {
+        "productBarCode": 5238771002153,
+        "name": "MONOSPRIN 60",
+        "expDate": "8.2.2033",
+        "category": "Medicine",
+        "quantity_rem": 109
+    },
+    {
+        "productBarCode": 5269385080630,
+        "name": "MONOTRATE SR 60",
+        "expDate": "31.5.2023",
+        "category": "Medicine",
+        "quantity_rem": 333
+    },
+    {
+        "productBarCode": 8191660015210,
+        "name": "MONOTRATE-20",
+        "expDate": "11.5.2020",
+        "category": "Medicine",
+        "quantity_rem": 228
+    },
+    {
+        "productBarCode": 8544619025631,
+        "name": "MONOTRATE-OD",
+        "expDate": "14.2.2026",
+        "category": "Medicine",
+        "quantity_rem": 622
+    },
+    {
+        "productBarCode": 8946571319968,
+        "name": "MONTEK LC",
+        "expDate": "29.7.2039",
+        "category": "Medicine",
+        "quantity_rem": 560
+    },
+    {
+        "productBarCode": 5302099372492,
+        "name": "MONTEK PLUS",
+        "expDate": "25.7.2044",
+        "category": "Medicine",
+        "quantity_rem": 431
+    },
+    {
+        "productBarCode": 4049304945105,
+        "name": "MONTEK-4MG 10 TAB",
+        "expDate": "31.3.2024",
+        "category": "Medicine",
+        "quantity_rem": 152
+    },
+    {
+        "productBarCode": 4476639501470,
+        "name": "MOX BD 875MG TABLETS",
+        "expDate": "18.7.2019",
+        "category": "Medicine",
+        "quantity_rem": 383
+    },
+    {
+        "productBarCode": 2371555768572,
+        "name": "MOX BD DISTABLETS 400 MG  ",
+        "expDate": "16.6.2033",
+        "category": "Medicine",
+        "quantity_rem": 925
+    },
+    {
+        "productBarCode": 3779962102851,
+        "name": "MOX CAPSULES 250 MG  3S",
+        "expDate": "5.6.2040",
+        "category": "Medicine",
+        "quantity_rem": 450
+    },
+    {
+        "productBarCode": 2686054914488,
+        "name": "MOX CAPSULES 500 MG 3S",
+        "expDate": "24.6.2038",
+        "category": "Medicine",
+        "quantity_rem": 610
+    },
+    {
+        "productBarCode": 1553253558723,
+        "name": "MOX CLAV BD DISTABLETS 228.5 MG   6'S",
+        "expDate": "2.10.2039",
+        "category": "Medicine",
+        "quantity_rem": 476
+    },
+    {
+        "productBarCode": 1458690822961,
+        "name": "MOX CLAV DROPS  10ML",
+        "expDate": "6.2.2034",
+        "category": "Medicine",
+        "quantity_rem": 313
+    },
+    {
+        "productBarCode": 7598390720917,
+        "name": "MOX CLAV DS SUS 457MG 30 ML ",
+        "expDate": "19.5.2042",
+        "category": "Medicine",
+        "quantity_rem": 832
+    },
+    {
+        "productBarCode": 7437344078295,
+        "name": "MOX CLAV ORAL SUSPENSION  30B",
+        "expDate": "3.11.2036",
+        "category": "Medicine",
+        "quantity_rem": 850
+    },
+    {
+        "productBarCode": 8035623719081,
+        "name": "MOX CLAV TABLETS 625 MG",
+        "expDate": "4.6.2027",
+        "category": "Medicine",
+        "quantity_rem": 269
+    },
+    {
+        "productBarCode": 3970987621862,
+        "name": "MOX CV 625MG TABLETS ",
+        "expDate": "11.4.2035",
+        "category": "Medicine",
+        "quantity_rem": 428
+    },
+    {
+        "productBarCode": 7006866095700,
+        "name": "MOX CV DROPS 91.4",
+        "expDate": "19.2.2022",
+        "category": "Medicine",
+        "quantity_rem": 490
+    },
+    {
+        "productBarCode": 6269612072059,
+        "name": "MOX DROPS REDIMIX -10 ML",
+        "expDate": "9.7.2035",
+        "category": "Medicine",
+        "quantity_rem": 821
+    },
+    {
+        "productBarCode": 7340795463564,
+        "name": "MOX INJ. 500MG",
+        "expDate": "16.10.2042",
+        "category": "Medicine",
+        "quantity_rem": 825
+    },
+    {
+        "productBarCode": 2991495874200,
+        "name": "MOX KID TABLETS 250 MG    ",
+        "expDate": "8.5.2028",
+        "category": "Medicine",
+        "quantity_rem": 737
+    },
+    {
+        "productBarCode": 3650997749989,
+        "name": "MOX P TABLETS 500 MG ",
+        "expDate": "2.6.2021",
+        "category": "Medicine",
+        "quantity_rem": 256
+    },
+    {
+        "productBarCode": 6674149391759,
+        "name": "MOX REDIMIX 125MG 5ML - 60ML",
+        "expDate": "14.2.2029",
+        "category": "Medicine",
+        "quantity_rem": 459
+    },
+    {
+        "productBarCode": 9997051589402,
+        "name": "MOX REDIMIX 250MG 5ML - 60ML",
+        "expDate": "14.7.2028",
+        "category": "Medicine",
+        "quantity_rem": 630
+    },
+    {
+        "productBarCode": 5627885798642,
+        "name": "MOX SUSPENSION 125 MG 5 ML - 60 ML.",
+        "expDate": "15.6.2027",
+        "category": "Medicine",
+        "quantity_rem": 185
+    },
+    {
+        "productBarCode": 6870537807255,
+        "name": "MOX-CLAV INJECTION 1.2 GM",
+        "expDate": "6.2.2023",
+        "category": "Medicine",
+        "quantity_rem": 450
+    },
+    {
+        "productBarCode": 8196749583194,
+        "name": "MUVERA 7.5",
+        "expDate": "25.12.2020",
+        "category": "Medicine",
+        "quantity_rem": 500
+    },
+    {
+        "productBarCode": 8288249399228,
+        "name": "NAFTOMAX 50",
+        "expDate": "17.4.2019",
+        "category": "Medicine",
+        "quantity_rem": 682
+    },
+    {
+        "productBarCode": 3565736083027,
+        "name": "NARATREX 1",
+        "expDate": "14.5.2022",
+        "category": "Medicine",
+        "quantity_rem": 907
+    },
+    {
+        "productBarCode": 9883611812194,
+        "name": "NATAMET 5% SUSPENSION-3ML",
+        "expDate": "31.7.2036",
+        "category": "Medicine",
+        "quantity_rem": 608
+    },
+    {
+        "productBarCode": 4260925124149,
+        "name": "NAXDOM 500",
+        "expDate": "31.5.2034",
+        "category": "Medicine",
+        "quantity_rem": 300
+    },
+    {
+        "productBarCode": 9084902101658,
+        "name": "NEUCOBAL FORTE",
+        "expDate": "19.1.2037",
+        "category": "Medicine",
+        "quantity_rem": 895
+    },
+    {
+        "productBarCode": 1818701927778,
+        "name": "NEUCOBAL-OD 1.5",
+        "expDate": "18.9.2043",
+        "category": "Medicine",
+        "quantity_rem": 314
+    },
+    {
+        "productBarCode": 6807330154458,
+        "name": "NEUGABA 75",
+        "expDate": "29.3.2021",
+        "category": "Medicine",
+        "quantity_rem": 543
+    },
+    {
+        "productBarCode": 9186123727311,
+        "name": "NEUGABA M 75",
+        "expDate": "10.9.2039",
+        "category": "Medicine",
+        "quantity_rem": 259
+    },
+    {
+        "productBarCode": 4977629353602,
+        "name": "NEUGALIN CAPSULES 75MG",
+        "expDate": "2.12.2025",
+        "category": "Medicine",
+        "quantity_rem": 168
+    },
+    {
+        "productBarCode": 6051572335301,
+        "name": "NEVIPAN TABLETS 200 MG ",
+        "expDate": "27.6.2022",
+        "category": "Medicine",
+        "quantity_rem": 733
+    },
+    {
+        "productBarCode": 6204600010771,
+        "name": "NEW COLDACT DROPS",
+        "expDate": "25.11.2045",
+        "category": "Medicine",
+        "quantity_rem": 288
+    },
+    {
+        "productBarCode": 3738610324063,
+        "name": "NEW COLDACT SYRUP",
+        "expDate": "24.11.2024",
+        "category": "Medicine",
+        "quantity_rem": 417
+    },
+    {
+        "productBarCode": 2228730219304,
+        "name": "NEW TRICLAZONE 40",
+        "expDate": "11.12.2025",
+        "category": "Medicine",
+        "quantity_rem": 423
+    },
+    {
+        "productBarCode": 7182156465438,
+        "name": "NEW TRIGLUCORED FORTE",
+        "expDate": "16.10.2042",
+        "category": "Medicine",
+        "quantity_rem": 189
+    },
+    {
+        "productBarCode": 2328803060341,
+        "name": "NEXIPRIDE 25",
+        "expDate": "18.10.2044",
+        "category": "Medicine",
+        "quantity_rem": 594
+    },
+    {
+        "productBarCode": 8235353855477,
+        "name": "NEXIPRIDE INJECTION 2ML",
+        "expDate": "13.6.2027",
+        "category": "Medicine",
+        "quantity_rem": 801
+    },
+    {
+        "productBarCode": 7698346828481,
+        "name": "NEXIPRIDE SR 200",
+        "expDate": "20.1.2029",
+        "category": "Medicine",
+        "quantity_rem": 525
+    },
+    {
+        "productBarCode": 4367012418124,
+        "name": "NEXITO LS",
+        "expDate": "19.12.2022",
+        "category": "Medicine",
+        "quantity_rem": 805
+    },
+    {
+        "productBarCode": 1232746653962,
+        "name": "NEXITO-10",
+        "expDate": "16.12.2041",
+        "category": "Medicine",
+        "quantity_rem": 387
+    },
+    {
+        "productBarCode": 2498616152614,
+        "name": "NEXITO-5",
+        "expDate": "29.5.2017",
+        "category": "Medicine",
+        "quantity_rem": 346
+    },
+    {
+        "productBarCode": 1025925933029,
+        "name": "NEZALAST",
+        "expDate": "8.9.2040",
+        "category": "Medicine",
+        "quantity_rem": 830
+    },
+    {
+        "productBarCode": 5947455382411,
+        "name": "NIADRIVE 500",
+        "expDate": "26.12.2030",
+        "category": "Medicine",
+        "quantity_rem": 327
+    },
+    {
+        "productBarCode": 2940238955276,
+        "name": "NIFTRAN 100 MG 10S",
+        "expDate": "13.10.2024",
+        "category": "Medicine",
+        "quantity_rem": 804
+    },
+    {
+        "productBarCode": 1326683915240,
+        "name": "NITREST-10",
+        "expDate": "9.11.2038",
+        "category": "Medicine",
+        "quantity_rem": 108
+    },
+    {
+        "productBarCode": 3453568485407,
+        "name": "NITROJECT-INJ 10ML 1 AMP",
+        "expDate": "17.1.2018",
+        "category": "Medicine",
+        "quantity_rem": 596
+    },
+    {
+        "productBarCode": 3010409565430,
+        "name": "NITROSUN 10",
+        "expDate": "13.2.2022",
+        "category": "Medicine",
+        "quantity_rem": 589
+    },
+    {
+        "productBarCode": 4007068365607,
+        "name": "NOCULI B6",
+        "expDate": "24.11.2044",
+        "category": "Medicine",
+        "quantity_rem": 788
+    },
+    {
+        "productBarCode": 7866861720246,
+        "name": "NOCULI ORAL SOLUTION 500ML",
+        "expDate": "11.8.2039",
+        "category": "Medicine",
+        "quantity_rem": 697
+    },
+    {
+        "productBarCode": 2919361848275,
+        "name": "NUSET-INJ 4MG/2ML 1 AMP",
+        "expDate": "6.2.2045",
+        "category": "Medicine",
+        "quantity_rem": 288
+    },
+    {
+        "productBarCode": 2415755505193,
+        "name": "NUTRIKIT",
+        "expDate": "31.10.2040",
+        "category": "Medicine",
+        "quantity_rem": 203
+    },
+    {
+        "productBarCode": 8726874343045,
+        "name": "NUTRIKIT RESPI  ",
+        "expDate": "31.8.2022",
+        "category": "Medicine",
+        "quantity_rem": 654
+    },
+    {
+        "productBarCode": 6958914074322,
+        "name": "OCTAHALER DEVICE FOR DRY PWDR",
+        "expDate": "8.8.2045",
+        "category": "Medicine",
+        "quantity_rem": 971
+    },
+    {
+        "productBarCode": 3097538096281,
+        "name": "OCTRIDE 100MCG 1 AMP",
+        "expDate": "25.9.2041",
+        "category": "Medicine",
+        "quantity_rem": 451
+    },
+    {
+        "productBarCode": 6760401708589,
+        "name": "OCTRIDE DEPOT 20 (1 MONTH)",
+        "expDate": "9.3.2033",
+        "category": "Medicine",
+        "quantity_rem": 427
+    },
+    {
+        "productBarCode": 4868189360125,
+        "name": "OD PHYLLIN-400",
+        "expDate": "15.12.2034",
+        "category": "Medicine",
+        "quantity_rem": 829
+    },
+    {
+        "productBarCode": 1483033463831,
+        "name": "OFRAMAX FORTE 375MG",
+        "expDate": "6.10.2025",
+        "category": "Medicine",
+        "quantity_rem": 378
+    },
+    {
+        "productBarCode": 4066231669293,
+        "name": "OFRAMAX INJECTION 1 GM+FFS",
+        "expDate": "20.12.2044",
+        "category": "Medicine",
+        "quantity_rem": 901
+    },
+    {
+        "productBarCode": 3425897839167,
+        "name": "OLANEX IT TABLETS 10MG  ",
+        "expDate": "1.11.2024",
+        "category": "Medicine",
+        "quantity_rem": 922
+    },
+    {
+        "productBarCode": 3346095897696,
+        "name": "OLANEX TABLETS 10 MG  ",
+        "expDate": "14.10.2041",
+        "category": "Medicine",
+        "quantity_rem": 793
+    },
+    {
+        "productBarCode": 1828126652219,
+        "name": "OLANEX TABLETS 5 MG  ",
+        "expDate": "26.11.2028",
+        "category": "Medicine",
+        "quantity_rem": 332
+    },
+    {
+        "productBarCode": 2478234407823,
+        "name": "OLEANZ 10",
+        "expDate": "24.12.2021",
+        "category": "Medicine",
+        "quantity_rem": 514
+    },
+    {
+        "productBarCode": 6263136288508,
+        "name": "OLEANZ 5",
+        "expDate": "22.11.2025",
+        "category": "Medicine",
+        "quantity_rem": 273
+    },
+    {
+        "productBarCode": 7279399708518,
+        "name": "OLEANZ FORTE",
+        "expDate": "13.7.2030",
+        "category": "Medicine",
+        "quantity_rem": 784
+    },
+    {
+        "productBarCode": 9416920639109,
+        "name": "OLEANZ PLUS",
+        "expDate": "27.3.2021",
+        "category": "Medicine",
+        "quantity_rem": 426
+    },
+    {
+        "productBarCode": 3099646499621,
+        "name": "OLEANZ RT 15",
+        "expDate": "22.7.2032",
+        "category": "Medicine",
+        "quantity_rem": 201
+    },
+    {
+        "productBarCode": 3736073236262,
+        "name": "OLEANZ RT 5",
+        "expDate": "5.1.2035",
+        "category": "Medicine",
+        "quantity_rem": 715
+    },
+    {
+        "productBarCode": 3698214678482,
+        "name": "OLMEZEST 20",
+        "expDate": "28.9.2024",
+        "category": "Medicine",
+        "quantity_rem": 343
+    },
+    {
+        "productBarCode": 2035832286821,
+        "name": "OLMEZEST AM",
+        "expDate": "15.11.2035",
+        "category": "Medicine",
+        "quantity_rem": 722
+    },
+    {
+        "productBarCode": 3204692459195,
+        "name": "OLMEZEST BETA 25",
+        "expDate": "27.6.2024",
+        "category": "Medicine",
+        "quantity_rem": 195
+    },
+    {
+        "productBarCode": 3048677619441,
+        "name": "OLMEZEST H 20",
+        "expDate": "3.4.2035",
+        "category": "Medicine",
+        "quantity_rem": 288
+    },
+    {
+        "productBarCode": 9193368583927,
+        "name": "OLVANCE 20MG TABLETS",
+        "expDate": "22.1.2035",
+        "category": "Medicine",
+        "quantity_rem": 802
+    },
+    {
+        "productBarCode": 6368659366569,
+        "name": "OLVANCE AM 20",
+        "expDate": "14.11.2032",
+        "category": "Medicine",
+        "quantity_rem": 530
+    },
+    {
+        "productBarCode": 9134689742424,
+        "name": "OLVANCE CT 20",
+        "expDate": "3.3.2031",
+        "category": "Medicine",
+        "quantity_rem": 133
+    },
+    {
+        "productBarCode": 5027183568076,
+        "name": "OLVANCE M 25",
+        "expDate": "28.8.2021",
+        "category": "Medicine",
+        "quantity_rem": 457
+    },
+    {
+        "productBarCode": 6241605267503,
+        "name": "OLVANCE \u2122 H20 TABLETS",
+        "expDate": "20.9.2017",
+        "category": "Medicine",
+        "quantity_rem": 578
+    },
+    {
+        "productBarCode": 9918717012338,
+        "name": "ONCOCARBIN-AQ 15ML [1 VIL]",
+        "expDate": "10.8.2043",
+        "category": "Medicine",
+        "quantity_rem": 885
+    },
+    {
+        "productBarCode": 6944246608930,
+        "name": "ONCOMOX 10",
+        "expDate": "5.6.2027",
+        "category": "Medicine",
+        "quantity_rem": 780
+    },
+    {
+        "productBarCode": 4500717209318,
+        "name": "ONCOPLATIN AQ 20ML",
+        "expDate": "7.5.2042",
+        "category": "Medicine",
+        "quantity_rem": 494
+    },
+    {
+        "productBarCode": 8915435060410,
+        "name": "ONCOTAXEL-260",
+        "expDate": "7.4.2032",
+        "category": "Medicine",
+        "quantity_rem": 283
+    },
+    {
+        "productBarCode": 3403725802507,
+        "name": "ONCOTREX 2.5",
+        "expDate": "4.8.2028",
+        "category": "Medicine",
+        "quantity_rem": 444
+    },
+    {
+        "productBarCode": 4923217446699,
+        "name": "ONCOTREX-7.5",
+        "expDate": "14.7.2020",
+        "category": "Medicine",
+        "quantity_rem": 454
+    },
+    {
+        "productBarCode": 7471917939396,
+        "name": "OSTOSPRAY",
+        "expDate": "7.6.2042",
+        "category": "Medicine",
+        "quantity_rem": 566
+    },
+    {
+        "productBarCode": 15164884,
+        "name": "BIO D3 plus capsule",
+        "expDate": "5.6.2021",
+        "category": "Medicine",
+        "quantity_rem": 151
+    },
+    {
+        "productBarCode": 9398631312502,
+        "name": "OVITROP R (300 IU)",
+        "expDate": "24.10.2045",
+        "category": "Medicine",
+        "quantity_rem": 916
+    },
+    {
+        "productBarCode": 3395558074169,
+        "name": "OVURELIX",
+        "expDate": "10.12.2025",
+        "category": "Medicine",
+        "quantity_rem": 406
+    },
+    {
+        "productBarCode": 7968939429096,
+        "name": "OXETOL 300",
+        "expDate": "19.3.2029",
+        "category": "Medicine",
+        "quantity_rem": 272
+    },
+    {
+        "productBarCode": 9806821756601,
+        "name": "OXETOL XR 150",
+        "expDate": "14.4.2026",
+        "category": "Medicine",
+        "quantity_rem": 681
+    },
+    {
+        "productBarCode": 6702959728886,
+        "name": "OXETOL XR 450",
+        "expDate": "12.2.2024",
+        "category": "Medicine",
+        "quantity_rem": 417
+    },
+    {
+        "productBarCode": 1452041808360,
+        "name": "OXETOL-300",
+        "expDate": "30.6.2031",
+        "category": "Medicine",
+        "quantity_rem": 482
+    },
+    {
+        "productBarCode": 5237401157150,
+        "name": "OXIDATCH 100 MG ",
+        "expDate": "5.11.2031",
+        "category": "Medicine",
+        "quantity_rem": 415
+    },
+    {
+        "productBarCode": 1071013515033,
+        "name": "OXIPLAT 100 (SOLUTION)",
+        "expDate": "24.9.2017",
+        "category": "Medicine",
+        "quantity_rem": 724
+    },
+    {
+        "productBarCode": 5827220257463,
+        "name": "PALIRIS 3",
+        "expDate": "11.8.2022",
+        "category": "Medicine",
+        "quantity_rem": 888
+    },
+    {
+        "productBarCode": 503621537,
+        "name": "Disprin 10 TAB",
+        "expDate": "18.9.2022",
+        "category": "Medicine",
+        "quantity_rem": 653
+    },
+    {
+        "productBarCode": 2008075260558,
+        "name": "PANTOCID",
+        "expDate": "31.2.2028",
+        "category": "Medicine",
+        "quantity_rem": 232
+    },
+    {
+        "productBarCode": 8901012121474,
+        "name": "Band-Aid Flexi",
+        "expDate": "16.5.2027",
+        "category": "Medicine",
+        "quantity_rem": 538
+    },
+    {
+        "productBarCode": 5707704665462,
+        "name": "PANTOCID-20",
+        "expDate": "23.5.2022",
+        "category": "Medicine",
+        "quantity_rem": 108
+    },
+    {
+        "productBarCode": 6607430476262,
+        "name": "PANTOCID-DSR",
+        "expDate": "21.11.2034",
+        "category": "Medicine",
+        "quantity_rem": 929
+    },
+    {
+        "productBarCode": 1116245316307,
+        "name": "PARKITIDIN",
+        "expDate": "2.11.2042",
+        "category": "Medicine",
+        "quantity_rem": 722
+    },
+    {
+        "productBarCode": 7028248098666,
+        "name": "PAXIDEP CR-12.5",
+        "expDate": "9.3.2038",
+        "category": "Medicine",
+        "quantity_rem": 491
+    },
+    {
+        "productBarCode": 5209970107712,
+        "name": "PAXIDEP CR-37.5",
+        "expDate": "26.2.2040",
+        "category": "Medicine",
+        "quantity_rem": 506
+    },
+    {
+        "productBarCode": 3455633168501,
+        "name": "PEGLITON 100    ",
+        "expDate": "14.6.2041",
+        "category": "Medicine",
+        "quantity_rem": 379
+    },
+    {
+        "productBarCode": 6433351015063,
+        "name": "PEGLITON 80MCG  ",
+        "expDate": "20.12.2032",
+        "category": "Medicine",
+        "quantity_rem": 368
+    },
+    {
+        "productBarCode": 9469092647042,
+        "name": "PEXITAZ 100MG",
+        "expDate": "3.9.2030",
+        "category": "Medicine",
+        "quantity_rem": 343
+    },
+    {
+        "productBarCode": 2925991944896,
+        "name": "PILOMAX 5",
+        "expDate": "5.11.2026",
+        "category": "Medicine",
+        "quantity_rem": 777
+    }
+]
