@@ -432,11 +432,11 @@ class _TextToSpeechState extends State<TextToSpeech> {
                             splashColor: Colors.white,
                             onPressed: () => {
                               Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (context) => SendEmail(),
-                          ),
-                        )
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => SendEmail(),
+                                ),
+                              )
                             },
                             borderSide:
                                 BorderSide(width: 2.0, color: Colors.white),

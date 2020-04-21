@@ -7,13 +7,6 @@
         "quantity_rem": 24
     },
     {
-        "productBarCode": 9557514014395,
-        "name": "Hair Serum",
-        "expDate": "24.07.2020",
-        "category": "Beauty",
-        "quantity_rem": 24
-    },
-    {
         "productBarCode": 4478015843799,
         "name": "AB PHYLLINE",
         "expDate": "13.9.2023",
@@ -77,24 +70,24 @@
         "quantity_rem": 954
     },
     {
-        "productBarCode": 7950648752073,
-        "name": "ADESAM 200",
-        "expDate": "29.11.2029",
-        "category": "Medicine",
+        "productBarCode": 8901662024538,
+        "name": "Paneer Tikka Masala",
+        "expDate": "29.11.2020",
+        "category": "Food",
         "quantity_rem": 489
     },
     {
-        "productBarCode": 6927383236609,
-        "name": "ADFOVIR",
-        "expDate": "17.12.2033",
-        "category": "Medicine",
+        "productBarCode": 8904004400755,
+        "name": "Aloo Bhujia",
+        "expDate": "17.12.2021",
+        "category": "Food",
         "quantity_rem": 918
     },
     {
-        "productBarCode": 6480366236581,
-        "name": "ADMENTA XR 14",
-        "expDate": "3.4.2030",
-        "category": "Medicine",
+        "productBarCode": 8901233031446,
+        "name": "Dairy Milk-Silk",
+        "expDate": "3.4.2025",
+        "category": "Food",
         "quantity_rem": 811
     },
     {
